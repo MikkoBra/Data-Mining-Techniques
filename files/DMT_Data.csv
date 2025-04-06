@@ -1,245 +1,245 @@
 timestamp;programme;machine_learning;information_retrieval;statistics;databases;gender;chatgpt;birthday;student_estimate;stress;sports;random_number;bedtime;good_day_1;good_day_2
 4-1-2025 12:17:07;Artificial Intelligence;yes;unknown;yes;yes;male;yes;01/01/1888;400;78.0;0.0;928393.0;00:00;Food;Travel
 4-1-2025 12:17:14;Artificial Intelligence;yes;yes;no;yes;female;yes;31/01/2002;321;1000.0;2.0;31.416;12:30;sun;coffee
-4-1-2025 12:17:17;Econometrics;yes;yes;yes;yes;male;not willing to say;September ;200;101.0;4.0;5.0;0:30;Zonnetje;Aperol
+4-1-2025 12:17:17;Econometrics;yes;yes;yes;yes;male;not willing to say;September ;200;101.0;4.0;5.0;00:30;Zonnetje;Aperol
 4-1-2025 12:17:21;Econometrics;yes;no;yes;no;male;yes;17/10/2003;350;60.0;6.0;37.0;23:00;Sun;Sun
-4-1-2025 12:17:24;Bioinformatics;yes;yes;yes;yes;male;yes;19/04/2000;500;50.0;8.0;1.0;12;-;-
-4-1-2025 12:17:26;Econometrics;no;unknown;yes;no;gender fluid;not willing to say;Tomorrow;467;99.7;8.0;0.0;5am;Chocolate;Bitterballen
+4-1-2025 12:17:24;Bioinformatics;yes;yes;yes;yes;male;yes;19/04/2000;500;50.0;8.0;1.0;12:00;-;-
+4-1-2025 12:17:26;Econometrics;no;unknown;yes;no;gender fluid;not willing to say;Tomorrow;467;99.7;8.0;0.0;05:00;Chocolate;Bitterballen
 4-1-2025 12:17:26;Econometrics;no;no;yes;yes;female;yes;25/10/1999;500;60.0;4.0;4.0;12:00;Sun;Good food
-4-1-2025 12:17:27;Computer Science;yes;no;no;yes;male;not willing to say;1 april;400;30.0;1.0;6656678.0;12am;good food;good grade
+4-1-2025 12:17:27;Computer Science;yes;no;no;yes;male;not willing to say;1 april;400;30.0;1.0;6656678.0;00:00;good food;good grade
 4-1-2025 12:17:28;Artificial Intelligence;no;no;yes;yes;female;yes;29/01/2001;500;60.0;3.0;888.0;10:37;Sun1;Sun2
-4-1-2025 12:17:30;Computer Science;no;no;yes;yes;gender fluid;not willing to say;01/08/2000;200;70.0;1.0;4.204204204204204e+17;0200;Work done good;Then smoke weed
-4-1-2025 12:17:31;Artificial Intelligence;yes;yes;no;yes;female;yes;19/10/1999;250;100.0;4.0;3.0;11 pm;Good food ;Nice company 
+4-1-2025 12:17:30;Computer Science;no;no;yes;yes;gender fluid;not willing to say;01/08/2000;200;70.0;1.0;4.204204204204204e+17;02:00;Work done good;Then smoke weed
+4-1-2025 12:17:31;Artificial Intelligence;yes;yes;no;yes;female;yes;19/10/1999;250;100.0;4.0;3.0;11:00;Good food ;Nice company 
 4-1-2025 12:17:31;Computer Science;yes;yes;unknown;yes;male;yes;1-1-1999;400;20.0;4.0;538299000000.0;00:00;Pizza;Beers
-4-1-2025 12:17:35;NPN;yes;unknown;yes;yes;male;yes;01/01/2000;345;60.0;8.0;1984.0;23h45;Good food;Good sleep 
-4-1-2025 12:17:39;Artificial Intelligence;yes;yes;yes;yes;male;no;June 15 2001;500;50.0;4.0;72.0;9 am;Mama’s food;Dad’s card 
-4-1-2025 12:17:40;Computer Science;yes;yes;unknown;yes;female;no;01;200;70.0;2.0;7.0;9;Good work;Good sleep
-4-1-2025 12:17:40;Computer Science;no;no;yes;yes;male;yes;27/02/2001;500;1000.0;0.0;94.0;2 am;Passing courses;Sleeping
-4-1-2025 12:17:41;Artificial Intelligence;yes;yes;no;yes;male;yes;10/05/1982;400;50.0;7.0;13.0;01.00;Drugs;More drugs
-4-1-2025 12:17:43;Artificial Intelligence;no;no;yes;yes;female;yes;16/12/1998;400;30.0;10.0;28.0;23.30;Coffee;Sports
+4-1-2025 12:17:35;NPN;yes;unknown;yes;yes;male;yes;01/01/2000;345;60.0;8.0;1984.0;23:45;Good food;Good sleep 
+4-1-2025 12:17:39;Artificial Intelligence;yes;yes;yes;yes;male;no;June 15 2001;500;50.0;4.0;72.0;09:00;Mama’s food;Dad’s card 
+4-1-2025 12:17:40;Computer Science;yes;yes;unknown;yes;female;no;01;200;70.0;2.0;7.0;09:00;Good work;Good sleep
+4-1-2025 12:17:40;Computer Science;no;no;yes;yes;male;yes;27/02/2001;500;1000.0;0.0;94.0;02:00;Passing courses;Sleeping
+4-1-2025 12:17:41;Artificial Intelligence;yes;yes;no;yes;male;yes;10/05/1982;400;50.0;7.0;13.0;01:00;Drugs;More drugs
+4-1-2025 12:17:43;Artificial Intelligence;no;no;yes;yes;female;yes;16/12/1998;400;30.0;10.0;28.0;23:30;Coffee;Sports
 4-1-2025 12:17:44;Bioinformatics;yes;no;unknown;unknown;female;yes;23/06/2002;200;1000.0;0.0;9.0;23:16;Nothing ;Nothing 
-4-1-2025 12:17:44;Business Analytics;yes;no;no;yes;female;yes;10/08/2000;200;70.0;0.0;8.0;2;Passing grade;Credit in balance
-4-1-2025 12:17:44;Artificial Intelligence;yes;yes;yes;yes;male;yes;30/12/2003;200;5.0;12.0;6372.0;1:00;Sun;More sun
-4-1-2025 12:17:46;Artificial Intelligence;yes;yes;yes;yes;male;yes;11 August;500;8.0;6.0;27.0;23.00; ; 
-4-1-2025 12:17:49;Artificial Intelligence;yes;yes;yes;yes;male;yes;Idk;300;9999.0;10.0;9999.0;1 am;Not having EDDA exam;Freetime
-4-1-2025 12:17:50;Artificial Intelligence;no;no;yes;no;male;yes;04/19/2000;300;20.0;3.0;78.0;12:30 PM;Hanging with friends in the sun;Eating good food
+4-1-2025 12:17:44;Business Analytics;yes;no;no;yes;female;yes;10/08/2000;200;70.0;0.0;8.0;02:00;Passing grade;Credit in balance
+4-1-2025 12:17:44;Artificial Intelligence;yes;yes;yes;yes;male;yes;30/12/2003;200;5.0;12.0;6372.0;01:00;Sun;More sun
+4-1-2025 12:17:46;Artificial Intelligence;yes;yes;yes;yes;male;yes;11 August;500;8.0;6.0;27.0;23:00; ; 
+4-1-2025 12:17:49;Artificial Intelligence;yes;yes;yes;yes;male;yes;Idk;300;9999.0;10.0;9999.0;01:00;Not having EDDA exam;Freetime
+4-1-2025 12:17:50;Artificial Intelligence;no;no;yes;no;male;yes;04/19/2000;300;20.0;3.0;78.0;12:30;Hanging with friends in the sun;Eating good food
 4-1-2025 12:17:51;Artificial Intelligence;yes;no;yes;yes;female;yes;19/07/2003;300;50.0;4.0;38.0;23:30;Sun;Activity 
 4-1-2025 12:17:51;Computational Science;no;no;yes;no;female;yes;19 February ;500;15.0;12.0;19.0;00:30;Good food ;Friends 
-4-1-2025 12:17:52;Econometrics;no;no;yes;no;female;not willing to say;19/05/2000;100;75.0;6.0;777.0;0.30;Sun;Cappuccino
-4-1-2025 12:17:52;Artificial Intelligence;yes;no;yes;yes;female;yes;September 14;550;100000000000000.0;7.0;74.0;2;Sun;Food
-4-1-2025 12:17:53;Artificial Intelligence;yes;no;unknown;yes;female;not willing to say;1999;180-200;2.0;4.0;99.0;1:00 am;Sunny day;Hanging out with friends
-4-1-2025 12:17:53;Artificial Intelligence;yes;no;yes;yes;female;yes;11/12/2001;300;3.0;10.0;25.0;12;dance;company
+4-1-2025 12:17:52;Econometrics;no;no;yes;no;female;not willing to say;19/05/2000;100;75.0;6.0;777.0;00:30;Sun;Cappuccino
+4-1-2025 12:17:52;Artificial Intelligence;yes;no;yes;yes;female;yes;September 14;550;100000000000000.0;7.0;74.0;02:00;Sun;Food
+4-1-2025 12:17:53;Artificial Intelligence;yes;no;unknown;yes;female;not willing to say;1999;180-200;2.0;4.0;99.0;01:00;Sunny day;Hanging out with friends
+4-1-2025 12:17:53;Artificial Intelligence;yes;no;yes;yes;female;yes;11/12/2001;300;3.0;10.0;25.0;12:00;dance;company
 4-1-2025 12:17:55;Econometrics;no;no;yes;no;male;yes;24/01/1999;300;55.0;2.0;27.0;12:00;Spending time with Marc;Nice warm weather
 4-1-2025 12:17:56;Artificial Intelligence;yes;no;yes;no;male;yes;29-070-2000;456;20.0;9.0;108.0;23:57;Yoga;Delicious food
 4-1-2025 12:17:56;Artificial Intelligence;yes;yes;no;yes;not willing to answer;yes;24 de Diciembre ;2055;100.0;10.0;37.0;05:00;Alcohol;More alcohol
-4-1-2025 12:17:57;Computer Science;no;unknown;yes;yes;female;no;01/06/2000;100;100.0;1.0;4738.0;12;grade 10;win lottery 
+4-1-2025 12:17:57;Computer Science;no;unknown;yes;yes;female;no;01/06/2000;100;100.0;1.0;4738.0;12:00;grade 10;win lottery 
 4-1-2025 12:17:57;Artificial Intelligence;yes;yes;no;yes;male;yes;11/11/2000;250;20.0;5.0;11011011.0;23:30;Socialising ;When I've learned something new
-4-1-2025 12:17:58;Artificial Intelligence;yes;no;yes;no;male;yes;05/11/1997;250;80.0;4.0;87.0;4:00;doing sports;not having anxiety
+4-1-2025 12:17:58;Artificial Intelligence;yes;no;yes;no;male;yes;05/11/1997;250;80.0;4.0;87.0;04:00;doing sports;not having anxiety
 4-1-2025 12:17:58;Computational Science;yes;no;yes;no;male;yes;27/11/2002;487;30.0;7.0;39.0;22:30;Sports;Free time
 4-1-2025 12:17:59;Finance;yes;no;yes;no;male;yes;20/07/2001;490;75.0;0.0;7.0;00:45;Booking tickets;drinking beers
 4-1-2025 12:17:59;Computer Science;yes;yes;yes;yes;female;yes;2000;300;10.0;2.0;7.794535435675898e+22;00:30;seeing friends;no work
 4-1-2025 12:18:01;Human Language Technology;yes;no;unknown;yes;female;yes;23/12/2002;450;10.0;3.0;1934.0;01:30;Nice weather;No work
 4-1-2025 12:18:03;Artificial Intelligence;no;no;yes;yes;female;yes;16/03/2002;550;50.0;8.0;8.0;00:30;Good food;Sun 
 4-1-2025 12:18:04;Artificial Intelligence;yes;no;yes;yes;male;yes;09/05/2002;350;45.0;4.0;69420.0;23:30;Feeling energized;Reaching the goals I set for myself that day
-4-1-2025 12:18:05;Finance;yes;no;yes;yes;male;yes;18/05/2003;300;5.0;8.0;14.0;12;Sports;Friends
+4-1-2025 12:18:05;Finance;yes;no;yes;yes;male;yes;18/05/2003;300;5.0;8.0;14.0;12:00;Sports;Friends
 4-1-2025 12:18:06;Business Analytics;yes;yes;yes;yes;female;yes;11/11/2002;450;89.0;7.0;69.0;23:40;Bubble tea;Dog
-4-1-2025 12:18:06;Econometrics;yes;yes;yes;yes;male;no;2000;350;0.0;4.0;14.0;3;No school;High grade
-4-1-2025 12:18:06;Artificial Intelligence;yes;unknown;yes;yes;male;not willing to say;26;200;49.0;7.0;420.0;2am;Warm;Sun
-4-1-2025 12:18:07;Artificial Intelligence;yes;yes;yes;yes;male;yes;29th September 2001;600;1000.0;4.0;66.0;1am;Going to gym;Weed
-4-1-2025 12:18:07;Artificial Intelligence;yes;yes;yes;yes;male;yes;21/11/2002;200;0.0;69.0;1.9938929928488475e+64;2:00;Ajax winning;Drugs
+4-1-2025 12:18:06;Econometrics;yes;yes;yes;yes;male;no;2000;350;0.0;4.0;14.0;03:00;No school;High grade
+4-1-2025 12:18:06;Artificial Intelligence;yes;unknown;yes;yes;male;not willing to say;26;200;49.0;7.0;420.0;02:00;Warm;Sun
+4-1-2025 12:18:07;Artificial Intelligence;yes;yes;yes;yes;male;yes;29th September 2001;600;1000.0;4.0;66.0;01:00;Going to gym;Weed
+4-1-2025 12:18:07;Artificial Intelligence;yes;yes;yes;yes;male;yes;21/11/2002;200;0.0;69.0;1.9938929928488475e+64;02:00;Ajax winning;Drugs
 4-1-2025 12:18:08;Artificial Intelligence;yes;yes;yes;yes;female;yes;December 14th;320;70.0;12.0;4.0;23:59;Sun;Interacting with my loved ones
-4-1-2025 12:18:08;Computer Science;no;no;yes;yes;male;yes;16/09/2001;200;30.0;5.0;2.3242342342344325e+18;12;nothing to do;can do anything
+4-1-2025 12:18:08;Computer Science;no;no;yes;yes;male;yes;16/09/2001;200;30.0;5.0;2.3242342342344325e+18;12:00;nothing to do;can do anything
 4-1-2025 12:18:08;Security ;yes;yes;no;yes;not willing to answer;not willing to say;1997;300;72.0;2.0;73.0;00:00;Beer ;Wine 
 4-1-2025 12:18:10;Computer Science;yes;yes;yes;yes;male;no;16/08/1996;350;5.0;9.0;-1.0;01:00;A cold beer;Kissing the homies for good night 
 4-1-2025 12:18:11;Artificial Intelligence;yes;no;no;no;intersex;yes;69/69/2069;450;60.0;3.0;358.0;04:00;Happy;Friends
-4-1-2025 12:18:11;Artificial Intelligence;no;no;yes;yes;female;yes;26/11/1998;150;60.0;2.0;42.0;2am;Good meal;Sunny day
-4-1-2025 12:18:12;Artificial Intelligence;yes;yes;no;yes;not willing to answer;yes;23 maart;375;6.0;10.0;61.0;23-00;Az winning;Went to the gym
+4-1-2025 12:18:11;Artificial Intelligence;no;no;yes;yes;female;yes;26/11/1998;150;60.0;2.0;42.0;02:00;Good meal;Sunny day
+4-1-2025 12:18:12;Artificial Intelligence;yes;yes;no;yes;not willing to answer;yes;23 maart;375;6.0;10.0;61.0;23:00;Az winning;Went to the gym
 4-1-2025 12:18:12;Artificial Intelligence;yes;no;yes;yes;male;yes;14/09/2000;200;13.0;6.0;7.0;00:00;Sunny;Pilsie
-4-1-2025 12:18:13;Artificial Intelligence;yes;yes;yes;yes;male;yes;-;350;0.0;5.0;69.0;4am;Free time;Videogames
-4-1-2025 12:18:13;Business Analytics;yes;no;yes;no;female;yes;20/05/2001;500;2.0;4.0;7.0;01.00;Sun, good food, being productive;Travelling
-4-1-2025 12:18:13;Artificial Intelligence;no;no;yes;unknown;male;yes;28/12/1999;400;60.0;6.0;87.0;00.30;Praying 5 times on time;Seeing my parents and my younger brother doing fine
-4-1-2025 12:18:14;Artificial Intelligence;no;no;yes;yes;male;yes;January 16th;187;11.0;7.0;6969696.0;2.30;Gym;Edda
-4-1-2025 12:18:14;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;23-05;500;60.0;6.0;5.0;1am;sun;more sun 
-4-1-2025 12:18:14;Computational Science;no;no;yes;yes;female;yes;19 July 1997;350;35.0;7.0;95836.0;1 AM;Getting enough sleep;Healthy breakfast
-4-1-2025 12:18:16;Bioinformatics;yes;unknown;yes;unknown;male;no;10/12/1994;300;15.0;5.0;;12:00 pm;A good day;A bad day
+4-1-2025 12:18:13;Artificial Intelligence;yes;yes;yes;yes;male;yes;-;350;0.0;5.0;69.0;04:00;Free time;Videogames
+4-1-2025 12:18:13;Business Analytics;yes;no;yes;no;female;yes;20/05/2001;500;2.0;4.0;7.0;01:00;Sun, good food, being productive;Travelling
+4-1-2025 12:18:13;Artificial Intelligence;no;no;yes;unknown;male;yes;28/12/1999;400;60.0;6.0;87.0;00:30;Praying 5 times on time;Seeing my parents and my younger brother doing fine
+4-1-2025 12:18:14;Artificial Intelligence;no;no;yes;yes;male;yes;January 16th;187;11.0;7.0;6969696.0;02:30;Gym;Edda
+4-1-2025 12:18:14;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;23-05;500;60.0;6.0;5.0;01:00;sun;more sun 
+4-1-2025 12:18:14;Computational Science;no;no;yes;yes;female;yes;19 July 1997;350;35.0;7.0;95836.0;01:00;Getting enough sleep;Healthy breakfast
+4-1-2025 12:18:16;Bioinformatics;yes;unknown;yes;unknown;male;no;10/12/1994;300;15.0;5.0;;12:00;A good day;A bad day
 4-1-2025 12:18:16;Computer Science;yes;yes;yes;yes;female;yes;20.06;400;66.0;6.0;12.0;23:30;Sunny weather ;Good grades 
-4-1-2025 12:18:17;Artificial Intelligence;yes;no;yes;no;female;yes;30/09/2002;80;80.0;6.0;47.0;22.00;Sunny day spent with friends ;going to a rave
-4-1-2025 12:18:17;Artificial Intelligence;no;no;no;yes;not willing to answer;yes;01/01/1900;500;100.0;2.0;89.0;5;Sun;Sun
-4-1-2025 12:18:18;Computer Science;yes;yes;unknown;yes;female;yes;23;450;20.0;0.0;8.0;11;Rain;Chocolate
-4-1-2025 12:18:18;Artificial Intelligence;yes;no;yes;no;male;yes;15-02;450;90.0;10.0;4141.0;12:30am;When the sun is out;Having the time to run
+4-1-2025 12:18:17;Artificial Intelligence;yes;no;yes;no;female;yes;30/09/2002;80;80.0;6.0;47.0;22:00;Sunny day spent with friends ;going to a rave
+4-1-2025 12:18:17;Artificial Intelligence;no;no;no;yes;not willing to answer;yes;01/01/1900;500;100.0;2.0;89.0;05:00;Sun;Sun
+4-1-2025 12:18:18;Computer Science;yes;yes;unknown;yes;female;yes;23;450;20.0;0.0;8.0;11:00;Rain;Chocolate
+4-1-2025 12:18:18;Artificial Intelligence;yes;no;yes;no;male;yes;15-02;450;90.0;10.0;4141.0;12:30;When the sun is out;Having the time to run
 4-1-2025 12:18:19;Business Analytics;yes;unknown;yes;no;male;not willing to say;13/03/2002;220;40.0;9.0;15.0;23:00;Get a lot of sleep(at least 8 hours);Eat good food
-4-1-2025 12:18:19;Artificial Intelligence;yes;yes;yes;yes;non-binary;not willing to say;08/10/2001;250;30.0;4.0;6.0;2;happiness ;sun
+4-1-2025 12:18:19;Artificial Intelligence;yes;yes;yes;yes;non-binary;not willing to say;08/10/2001;250;30.0;4.0;6.0;02:00;happiness ;sun
 4-1-2025 12:18:20;Artificial Intelligence;yes;no;yes;yes;male;yes;21/10/2001;430;30.0;8.0;37.0;00:30;Doing things I want to do;Not having to do things I don't want to do
 4-1-2025 12:18:20;Artificial Intelligence;yes;yes;yes;yes;female;yes;10/12/1999;500;65.0;4.0;168.0;23:00;sun;not encountering a stressful situation
 4-1-2025 12:18:20;Computational Science;yes;no;yes;yes;male;yes;21/06/2001;250;200.0;5.0;42.0;23:00;Sex;Alcohol 
-4-1-2025 12:18:20;Econometrics;yes;yes;yes;yes;male;yes;28/02/2001;350;42.0;10.0;5347833.0;2300;Good food and no econometrics courses;Sun, exercise and beer
-4-1-2025 12:18:20;Computer Science;no;yes;unknown;no;male;yes;28/06/2002;380;99999.0;10.0;7777.0;2 pm;weed;alcohol
-4-1-2025 12:18:21;Computer Science;yes;no;yes;yes;female;yes;10/11/2000;5;60.0;4.0;8.0;23;Sunshine;Friends 
+4-1-2025 12:18:20;Econometrics;yes;yes;yes;yes;male;yes;28/02/2001;350;42.0;10.0;5347833.0;23:00;Good food and no econometrics courses;Sun, exercise and beer
+4-1-2025 12:18:20;Computer Science;no;yes;unknown;no;male;yes;28/06/2002;380;99999.0;10.0;7777.0;02:00;weed;alcohol
+4-1-2025 12:18:21;Computer Science;yes;no;yes;yes;female;yes;10/11/2000;5;60.0;4.0;8.0;23:00;Sunshine;Friends 
 4-1-2025 12:18:22;Artificial Intelligence;yes;no;yes;unknown;male;yes;08/03/1998;350;15.0;6.0;42.0;23:00;Good weather;Chilling
 4-1-2025 12:18:22;Artificial Intelligence;yes;yes;yes;yes;female;yes;January 9th;400;30.0;4.0;77.0;23:55;Sunny weather;Good food
 4-1-2025 12:18:26;Computational Science;yes;unknown;yes;yes;female;yes;28/05;330;47.0;12.0;30.0;23:45;Good food;Sun
-4-1-2025 12:18:26;Computational Science;yes;no;yes;yes;female;yes;26/10/2001;350;10.0;12.0;3.0;2am;sun;good food
-4-1-2025 12:18:27;Computer Science;yes;yes;unknown;no;male;yes;21/07/2002;200;20.0;15.0;6.0;1:30am;delicious food;alcohol dose
-4-1-2025 12:18:27;Artificial Intelligence;yes;yes;no;yes;male;yes;not today;250;20.0;3.0;42.0;0:30;no responsibilities;nice weather
+4-1-2025 12:18:26;Computational Science;yes;no;yes;yes;female;yes;26/10/2001;350;10.0;12.0;3.0;02:00;sun;good food
+4-1-2025 12:18:27;Computer Science;yes;yes;unknown;no;male;yes;21/07/2002;200;20.0;15.0;6.0;01:30;delicious food;alcohol dose
+4-1-2025 12:18:27;Artificial Intelligence;yes;yes;no;yes;male;yes;not today;250;20.0;3.0;42.0;00:30;no responsibilities;nice weather
 4-1-2025 12:18:27;Econometrics;yes;yes;yes;yes;male;yes;25/01/2003;385;6.0;7.0;10.0;00:00;Food;Sun
-4-1-2025 12:18:28;Computational Science;yes;no;yes;no;female;yes;13/02;390;37.0;4.0;197367.0;1am;Sun ;Good food
-4-1-2025 12:18:28;Econometrics;yes;no;yes;yes;male;yes;15/02/2002;375;50.0;4.0;1.0;12;Travel;Active
+4-1-2025 12:18:28;Computational Science;yes;no;yes;no;female;yes;13/02;390;37.0;4.0;197367.0;01:00;Sun ;Good food
+4-1-2025 12:18:28;Econometrics;yes;no;yes;yes;male;yes;15/02/2002;375;50.0;4.0;1.0;12:00;Travel;Active
 4-1-2025 12:18:30;Artificial Intelligence;yes;yes;no;yes;male;yes;02/04/2005;195;0.0;10.0;7.0;12:34;Not having looking for x ;Spots
-4-1-2025 12:18:31;Computer Science;no;no;no;no;gender fluid;yes;X;300;30.0;4.0;73.0;1;Sun;Sub
+4-1-2025 12:18:31;Computer Science;no;no;no;no;gender fluid;yes;X;300;30.0;4.0;73.0;01:00;Sun;Sub
 4-1-2025 12:18:31;Msc International Public Health;no;yes;yes;no;female;yes;21/03/2002;234;40.0;7.0;8.0;23:30;Coffee;Running in the sun
-4-1-2025 12:18:31;Computer Science;yes;yes;yes;yes;other;yes;04 February ;330;9000.0;0.0;37.0;5am;Got nothing to do;Interesting activities
-4-1-2025 12:18:32;Computational Science;yes;unknown;yes;no;male;yes;98/12/04;480;75.0;3.0;7.0;1;Achivements;Socialising
-4-1-2025 12:18:33;Artificial Intelligence;yes;unknown;yes;yes;male;yes;-;291;79.0;0.0;74.0;2 am;Being with someone i love;No assignment deadline!!!
+4-1-2025 12:18:31;Computer Science;yes;yes;yes;yes;other;yes;04 February ;330;9000.0;0.0;37.0;05:00;Got nothing to do;Interesting activities
+4-1-2025 12:18:32;Computational Science;yes;unknown;yes;no;male;yes;98/12/04;480;75.0;3.0;7.0;01:00;Achivements;Socialising
+4-1-2025 12:18:33;Artificial Intelligence;yes;unknown;yes;yes;male;yes;-;291;79.0;0.0;74.0;02:00;Being with someone i love;No assignment deadline!!!
 4-1-2025 12:18:33;Computer Science;yes;yes;no;yes;male;not willing to say;Lol;550;42.0;4.0;69.0;00:40;Eating burrata;Eating pasta
-4-1-2025 12:18:34;Artificial Intelligence;yes;no;yes;yes;female;yes;26/10/2001;200;30.0;0.0;7.0;1:30;My boyfriend;My friends 
+4-1-2025 12:18:34;Artificial Intelligence;yes;no;yes;yes;female;yes;26/10/2001;200;30.0;0.0;7.0;01:30;My boyfriend;My friends 
 4-1-2025 12:18:34;Computer Science;yes;no;yes;yes;female;yes;10-10;500;100.0;3.0;3.0;12:45;Cats;Sun
 4-1-2025 12:18:34;Artificial Intelligence;yes;yes;unknown;yes;intersex;not willing to say;22/01/2002;420;100.0;8.0;40.0;11:35;-1;-2
-4-1-2025 12:18:34;Bioinformatics;no;no;no;no;female;yes;20010831;200;10.0;8.0;11.0;1:00;Delicious food;Nice weather
+4-1-2025 12:18:34;Bioinformatics;no;no;no;no;female;yes;20010831;200;10.0;8.0;11.0;01:00;Delicious food;Nice weather
 4-1-2025 12:18:35;Business Analytics;yes;yes;yes;yes;male;not willing to say;14/07/2003;350;85.0;7.0;4.0;01:30;A beer after a exam;Seeing my dog
 4-1-2025 12:18:35;Artificial Intelligence;yes;yes;unknown;yes;female;yes;02-01-2001 ;289;40.0;6.0;9582000000000.0;23:25;Sun;Good exam result
 4-1-2025 12:18:36;Business Analytics;yes;yes;yes;yes;female;not willing to say;21/05/2025;400;40.0;3.0;9.0;21:45;Sleeping in;No assignments
 4-1-2025 12:18:36;Computational Science;yes;no;yes;yes;male;yes;05/01;350;25.0;20.0;40.0;23:00;feeling good ;productive
 4-1-2025 12:18:37;Bioinformatics;yes;no;yes;no;male;yes;30/09/2002;250;0.0;7.0;69.0;23:00;Sun;Sports
-4-1-2025 12:18:37;Computational Science;yes;no;yes;no;male;not willing to say;Muhahahah;250;110.0;5.0;42.0;0:30;Doggo;Food
+4-1-2025 12:18:37;Computational Science;yes;no;yes;no;male;not willing to say;Muhahahah;250;110.0;5.0;42.0;00:30;Doggo;Food
 4-1-2025 12:18:37;Artificial Intelligence;yes;unknown;yes;no;not willing to answer;yes;07/08/1934;70000;900.0;10.0;7.0;23:00;Good talks;Productivity
 4-1-2025 12:18:38;Bioinformatics;yes;yes;yes;no;male;yes;22/08/1998;250;60.0;4.0;89867.0;23:30;Cats;Candy
-4-1-2025 12:18:38;Bioinformatics;yes;no;yes;no;female;not willing to say;09/11/2001;600;40.0;0.0;658.0;7pm;money;love
-4-1-2025 12:18:39;Artificial Intelligence;yes;no;yes;yes;male;yes;26/07/2001;600;22.0;5.0;236.0;11:33 PM;eating good food;having a nice nap
-4-1-2025 12:18:39;Artificial Intelligence;yes;yes;unknown;yes;female;yes;20/09;150;20.0;4.0;11.0;12;Good sleep;No uni
-4-1-2025 12:18:39;Computer Science;yes;no;unknown;yes;not willing to answer;yes;05/08/2000;300;13.0;6.0;1738.0;2;People;Food
+4-1-2025 12:18:38;Bioinformatics;yes;no;yes;no;female;not willing to say;09/11/2001;600;40.0;0.0;658.0;19:00;money;love
+4-1-2025 12:18:39;Artificial Intelligence;yes;no;yes;yes;male;yes;26/07/2001;600;22.0;5.0;236.0;11:33;eating good food;having a nice nap
+4-1-2025 12:18:39;Artificial Intelligence;yes;yes;unknown;yes;female;yes;20/09;150;20.0;4.0;11.0;12:00;Good sleep;No uni
+4-1-2025 12:18:39;Computer Science;yes;no;unknown;yes;not willing to answer;yes;05/08/2000;300;13.0;6.0;1738.0;02:00;People;Food
 4-1-2025 12:18:40;Econometrics;yes;yes;yes;yes;male;yes;04/04/2004;425;5.0;3.0;4.0;23:00;Hanging out with friends;No responsibilities
 4-1-2025 12:18:41;Business Analytics;yes;no;unknown;yes;male;yes;20/08/2004;287;23.0;23.0;1.843659021436743e+17;22:40;Sports;Friends
 4-1-2025 12:18:41;Computational Science;yes;no;yes;yes;male;no;03/04/2000;300;100.0;0.0;7.0;23:00;Not going to uni;No deadlines
 4-1-2025 12:18:41;Artificial Intelligence;no;no;no;yes;male;yes;25/10/2002;300;30.0;7.0;9.0;00:30;Sports;Good sleep
-4-1-2025 12:18:43;Computer Science;no;no;no;no;female;yes;11/04/1999;220;67.0;4.0;4.0;4am;I take the ADHD medicine ;go out with friends 
-4-1-2025 12:18:44;Computational Science;no;no;yes;yes;male;yes;27/01/1991;300;1.0;7.0;33.0;1:00;No assignments need to do;No lectures
+4-1-2025 12:18:43;Computer Science;no;no;no;no;female;yes;11/04/1999;220;67.0;4.0;4.0;04:00;I take the ADHD medicine ;go out with friends 
+4-1-2025 12:18:44;Computational Science;no;no;yes;yes;male;yes;27/01/1991;300;1.0;7.0;33.0;01:00;No assignments need to do;No lectures
 4-1-2025 12:18:44;Bioinformatics;yes;unknown;unknown;unknown;male;yes;1.1.2000;500;69.0;10.0;69.0;Midnight;Sun;Friends
-4-1-2025 12:18:44;Security ;yes;no;unknown;yes;male;no;September;483;;3.0;64.0;3AM;Sleep;Food
+4-1-2025 12:18:44;Security ;yes;no;unknown;yes;male;no;September;483;;3.0;64.0;03:00;Sleep;Food
 4-1-2025 12:18:44;Artificial Intelligence;yes;yes;yes;yes;male;yes;November 1999;300;75.0;4.0;314159265359.0;23:00;Passing EDDA;The sun
 4-1-2025 12:18:44;Artificial Intelligence;yes;yes;yes;no;female;yes;25/12;450;60.0;1.0;44.0;23:30;Nice weather;Free time
 4-1-2025 12:18:45;Bioinformatics;no;no;yes;yes;male;yes;0000;240;100.0;2.0;8.0;03:00;no studying;gaming
-4-1-2025 12:18:45;Mathematics;yes;yes;yes;yes;male;yes;01/21/1997;357;7.0;5.0;69420.0;3am;You :);You again :)
+4-1-2025 12:18:45;Mathematics;yes;yes;yes;yes;male;yes;01/21/1997;357;7.0;5.0;69420.0;03:00;You :);You again :)
 4-1-2025 12:18:46;Finance;yes;no;yes;yes;male;yes;10/01/2000;500;40.0;2.0;1.0;01:23;Making someone smile;Smiling
-4-1-2025 12:18:46;Artificial Intelligence;no;no;yes;no;male;yes;26;297;69.0;6.0;426.0;2300;Mild weather, no lectures, good food;No assignments, no exam stress
-4-1-2025 12:18:46;Computer Science;no;unknown;unknown;unknown;male;not willing to say;07 232001;500;80.0;6.0;5.0;8;eating;play 
+4-1-2025 12:18:46;Artificial Intelligence;no;no;yes;no;male;yes;26;297;69.0;6.0;426.0;23:00;Mild weather, no lectures, good food;No assignments, no exam stress
+4-1-2025 12:18:46;Computer Science;no;unknown;unknown;unknown;male;not willing to say;07 232001;500;80.0;6.0;5.0;08:00;eating;play 
 4-1-2025 12:18:46;Human Language Technology (RM);yes;no;yes;no;male;yes;Mid February;300;20.0;8.0;891230124.0;01:30;Friends;Activity and food
-4-1-2025 12:18:47;Business Analytics;yes;unknown;yes;yes;female;yes;14/02/1999;480;0.0;8.0;10.0;23;Peace;Nature
+4-1-2025 12:18:47;Business Analytics;yes;unknown;yes;yes;female;yes;14/02/1999;480;0.0;8.0;10.0;23:00;Peace;Nature
 4-1-2025 12:18:47;Finance;yes;no;yes;no;male;yes;26/04/2001;350;20.0;8.0;124.0;23:30;Sports;Focus
 4-1-2025 12:18:48;Computational Science;no;no;yes;no;male;yes;Aug 2000;300;55.0;6.0;47.0;00:31;Motorcycle ride;Social interaction
-4-1-2025 12:18:48;Artificial Intelligence;yes;yes;no;yes;intersex;not willing to say;06/10;500;100.0;3.0;420.0;2am;Studying;Learning
+4-1-2025 12:18:48;Artificial Intelligence;yes;yes;no;yes;intersex;not willing to say;06/10;500;100.0;3.0;420.0;02:00;Studying;Learning
 4-1-2025 12:18:48;Computer Science;yes;yes;yes;yes;male;yes;02/09/2003;366;57.0;6.0;9999999999.0;00:40;go out of the house ;play a sport and instrument 
 4-1-2025 12:18:49;Artificial Intelligence;no;yes;yes;yes;male;yes;24/02/2002;300;15.0;8.0;67.0;00:30;Doing a sport;Playing my bass guitar
-4-1-2025 12:18:49;Artificial Intelligence;yes;no;yes;no;male;yes;23/07/2001;300;45.0;4.0;23.0;2;beer;another beer
-4-1-2025 12:18:49;Artificial Intelligence;yes;no;unknown;yes;male;yes;undisclosed;123;90.0;4.0;;3:54;grounded;social, speding quality time with friends
+4-1-2025 12:18:49;Artificial Intelligence;yes;no;yes;no;male;yes;23/07/2001;300;45.0;4.0;23.0;02:00;beer;another beer
+4-1-2025 12:18:49;Artificial Intelligence;yes;no;unknown;yes;male;yes;undisclosed;123;90.0;4.0;;03:54;grounded;social, speding quality time with friends
 4-1-2025 12:18:49;Computer Science;yes;yes;unknown;yes;male;yes;31 January 1999;300;75.0;3.0;81.0;3 AM x);Chilling with buddies;GAMING
-4-1-2025 12:18:49;Computer Science;no;yes;yes;yes;male;yes;12/12/1921;450;101.0;168.0;3737.0;1;Money;Less money
+4-1-2025 12:18:49;Computer Science;no;yes;yes;yes;male;yes;12/12/1921;450;101.0;168.0;3737.0;01:00;Money;Less money
 4-1-2025 12:18:50;Artificial Intelligence;yes;yes;yes;yes;male;yes;05/12;125;101.0;4.0;2.4581973215786324e+62;23:00;good food;finish task
 4-1-2025 12:18:51;Artificial Intelligence;no;no;yes;yes;male;yes;23/02;200;65.0;3.0;4.0;02:00;Coffee;Motivation 
-4-1-2025 12:18:51;Artificial Intelligence;yes;no;no;yes;male;yes;nonono;378;-10.0;2.0;12.0;4am;gezelligheid;see above
-4-1-2025 12:18:52;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;20/09/2002;200;30.0;5.0;13.0;11:30pm;Productivity;Nice weather
-4-1-2025 12:18:53;Artificial Intelligence;yes;unknown;yes;no;female;yes;03/10/2001;400;40.0;10.0;3.0;12;workout;sun
-4-1-2025 12:18:53;Computer Science;yes;yes;no;yes;male;not willing to say;09/10/2000;390;101.0;3.0;7.0;5am;A day outside;Jamming with the homies
+4-1-2025 12:18:51;Artificial Intelligence;yes;no;no;yes;male;yes;nonono;378;-10.0;2.0;12.0;04:00;gezelligheid;see above
+4-1-2025 12:18:52;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;20/09/2002;200;30.0;5.0;13.0;11:30;Productivity;Nice weather
+4-1-2025 12:18:53;Artificial Intelligence;yes;unknown;yes;no;female;yes;03/10/2001;400;40.0;10.0;3.0;12:00;workout;sun
+4-1-2025 12:18:53;Computer Science;yes;yes;no;yes;male;not willing to say;09/10/2000;390;101.0;3.0;7.0;05:00;A day outside;Jamming with the homies
 4-1-2025 12:18:53;Bioinformatics;yes;yes;yes;no;male;yes;11/01/2001;500;25.0;5.0;27.0;23:30;Waking up refreshed;exercise
-4-1-2025 12:18:53;Bioinformatics;yes;no;unknown;no;male;yes;11/6;300;99.0;7.0;77.0;1:30;no class;nice weather
+4-1-2025 12:18:53;Bioinformatics;yes;no;unknown;no;male;yes;11/6;300;99.0;7.0;77.0;01:30;no class;nice weather
 4-1-2025 12:18:53;Computational Science;no;no;no;no;male;yes;24th november;280;40.0;6.0;18282.0;22:00;Nice weather;Nice girls
 4-1-2025 12:18:54;Bioinformatics;yes;no;yes;no;female;not willing to say;16/11/2001;450;80.0;3.0;17.0;00:30;sleeping;going for a walk
-4-1-2025 12:18:55;Computer Science;yes;yes;no;yes;male;no;16/02/1999;150;0.0;8.0;75.0;5:00am;Fun;Fun 2
+4-1-2025 12:18:55;Computer Science;yes;yes;no;yes;male;no;16/02/1999;150;0.0;8.0;75.0;05:00;Fun;Fun 2
 4-1-2025 12:18:55;Bioinformatics;no;unknown;no;yes;male;yes;13 january;230;69.0;15.0;4.67899018748225e+16;22:00;Reaching my calory goal;Sleeping 8 hours
 4-1-2025 12:18:55;Business Analytics;yes;no;yes;yes;female;yes;28/06/2002;250;50.0;0.0;3.0;12:30;feeling productive;socializing 
-4-1-2025 12:18:55;Big-Data Engineering;yes;no;unknown;yes;male;not willing to say;20.01;118;24.0;6.0;31.0;12.30;Low stress;Progress
+4-1-2025 12:18:55;Big-Data Engineering;yes;no;unknown;yes;male;not willing to say;20.01;118;24.0;6.0;31.0;12:30;Low stress;Progress
 4-1-2025 12:18:56;Bioinformatics;no;yes;no;yes;female;yes;29/04/2002;375;30.0;6.0;3.0;23:30;Sun;-
 4-1-2025 12:18:56;Computer Science;yes;yes;no;yes;female;yes;02/01/2003;;40.0;10.0;13.0;23:30;Stick to my daily routine;Connect with some good person
 4-1-2025 12:18:56;Econometrics;yes;no;yes;yes;not willing to answer;no;de vijftiende dag van de vierde maand;460;30.0;0.0;;around midnight;no lectures;sleeping
 4-1-2025 12:18:56;Computer Science;yes;yes;yes;yes;female;yes;00/00/0000;200;30.0;5.0;173425000000000.0;22:30;Running in the morning;Meeting new people
-4-1-2025 12:18:57;Econometrics;yes;yes;yes;yes;male;yes;23/01/2001;300;0.0;4.0;271828.0;23u30;Good sleep;Free time
+4-1-2025 12:18:57;Econometrics;yes;yes;yes;yes;male;yes;23/01/2001;300;0.0;4.0;271828.0;23:30;Good sleep;Free time
 4-1-2025 12:18:57;Artificial Intelligence;yes;no;yes;yes;male;yes;13/05/2000;400;10.0;10.0;21.0;00:30;Sun and good food;Good food and sun
-4-1-2025 12:18:58;Computer Science;no;no;unknown;yes;female;yes;9.4;250;65.0;2.0;9.0;1.22am;With friends I love;Sunny days
+4-1-2025 12:18:58;Computer Science;no;no;unknown;yes;female;yes;9.4;250;65.0;2.0;9.0;01:22;With friends I love;Sunny days
 4-1-2025 12:18:59;Artificial Intelligence;yes;no;yes;no;female;yes;December;340;40.0;9.0;1672.0;01:00;Friends;Drinks
-4-1-2025 12:18:59;Artificial Intelligence;yes;no;yes;no;female;yes;10/07;400;35.0;6.0;823.0;1am;Sunshine;Nice food
-4-1-2025 12:18:59;Artificial Intelligence;yes;no;yes;yes;female;no;03/01/2001;250;100.0;4.0;11.0;23.30;Sun Shining;Drinking Matcha in the Sun
-4-1-2025 12:19:00;Computational Science;yes;no;yes;no;female;yes;april 3rd;100;20.0;5.0;51.0;0:00;sunshine;no exam
+4-1-2025 12:18:59;Artificial Intelligence;yes;no;yes;no;female;yes;10/07;400;35.0;6.0;823.0;01:00;Sunshine;Nice food
+4-1-2025 12:18:59;Artificial Intelligence;yes;no;yes;yes;female;no;03/01/2001;250;100.0;4.0;11.0;23:30;Sun Shining;Drinking Matcha in the Sun
+4-1-2025 12:19:00;Computational Science;yes;no;yes;no;female;yes;april 3rd;100;20.0;5.0;51.0;00:00;sunshine;no exam
 4-1-2025 12:19:00;Computer Science;no;yes;no;yes;male;yes;07/02/1997;450;40.0;10.0;8473.0;00:00;The sun;Sports
-4-1-2025 12:19:00;Humanities Research Master;yes;no;yes;yes;female;yes;december;350;87.0;1.0;27.4;2 am;getting some work done;time to make music
+4-1-2025 12:19:00;Humanities Research Master;yes;no;yes;yes;female;yes;december;350;87.0;1.0;27.4;02:00;getting some work done;time to make music
 4-1-2025 12:19:01;Econometrics;yes;yes;yes;yes;female;yes;20/07/2002;450;10.0;3.0;22.0;23:00;Sun;friends
 4-1-2025 12:19:01;Artificial Intelligence;yes;no;yes;yes;female;yes;01/09;450;25.0;2.0;55678686.0;02:00;Sunshine;Food
 4-1-2025 12:19:02;Business Analytics;yes;yes;yes;yes;female;yes;03/01/2000;400;60.0;7.0;25.0;23:00;being able to exercise;get outside
 4-1-2025 12:19:02;Artificial Intelligence;yes;yes;yes;yes;male;yes;05/03/2001;400;40.0;16.0;90.0;22:30;Performing some sports;Positive people around me 
 4-1-2025 12:19:02;Business Analytics;yes;unknown;no;yes;male;yes;11/09/2002;380;40.0;12.0;8.582822818256637e+20;22:30;When the sun is out;What makes a good day for you (2)? 
-4-1-2025 12:19:02;Artificial Intelligence;yes;no;yes;yes;female;yes;December 27;550;20.0;3.0;77.0;1 am;Good Breakfast;Sunshine
-4-1-2025 12:19:03;Artificial Intelligence;yes;yes;unknown;yes;male;yes;18/11/2000;384;-10000.0;14.0;9.0;12;productivity;music
-4-1-2025 12:19:04;Computer Science;no;unknown;yes;yes;male;yes;;450;30.0;6.0;76.0;3:00 ;Videogames all day;Good food for free
+4-1-2025 12:19:02;Artificial Intelligence;yes;no;yes;yes;female;yes;December 27;550;20.0;3.0;77.0;01:00;Good Breakfast;Sunshine
+4-1-2025 12:19:03;Artificial Intelligence;yes;yes;unknown;yes;male;yes;18/11/2000;384;-10000.0;14.0;9.0;12:00;productivity;music
+4-1-2025 12:19:04;Computer Science;no;unknown;yes;yes;male;yes;;450;30.0;6.0;76.0;03:00;Videogames all day;Good food for free
 4-1-2025 12:19:05;Finance;yes;unknown;yes;no;male;yes;17 augustus 2001;250;58.0;3.0;5.0;01:30;Not a lot of assignments;Sports and guitar
 4-1-2025 12:19:05;Econometrics;yes;yes;yes;no;male;not willing to say;13/12/2003;250;23.23;7.0;0.0;00:30;productivity;nice food
-4-1-2025 12:19:06;Finance;yes;no;yes;no;male;not willing to say;15/08/2000;400;60.0;10.0;158.0;3am;Sports;Food
-4-1-2025 12:19:06;Master;yes;no;yes;no;gender fluid;no;6-9-69;9000;100.0;200.0;;5;Brazzers;BangBros
-4-1-2025 12:19:06;Business Analytics;yes;yes;no;yes;male;yes;04/10/2003;311;11.0;4.0;1.0107472946391948e+124;1;Potato;Fries
+4-1-2025 12:19:06;Finance;yes;no;yes;no;male;not willing to say;15/08/2000;400;60.0;10.0;158.0;03:00;Sports;Food
+4-1-2025 12:19:06;Master;yes;no;yes;no;gender fluid;no;6-9-69;9000;100.0;200.0;;05:00;Brazzers;BangBros
+4-1-2025 12:19:06;Business Analytics;yes;yes;no;yes;male;yes;04/10/2003;311;11.0;4.0;1.0107472946391948e+124;01:00;Potato;Fries
 4-1-2025 12:19:06;Artificial Intelligence;yes;yes;yes;yes;male;yes;18/01/2002;300;15.0;20.0;78.0;23:30;-;-
-4-1-2025 12:19:06;Computer Science;yes;no;yes;yes;male;yes;18/02/2001;150;30.0;7.0;-69420.0;3:00;“rm -r .”;Bouldering and hanging with the homies
+4-1-2025 12:19:06;Computer Science;yes;no;yes;yes;male;yes;18/02/2001;150;30.0;7.0;-69420.0;03:00;“rm -r .”;Bouldering and hanging with the homies
 4-1-2025 12:19:07;Artificial Intelligence;yes;yes;yes;yes;female;yes;25/06/2003;450;50.0;8.0;7.0;23:00;Good food ;Nobody dies 
-4-1-2025 12:19:08;Computational Science;yes;no;yes;no;female;not willing to say;25/08/2000;150;98.0;0.0;23.0;4;no course;鲜锅兔
+4-1-2025 12:19:08;Computational Science;yes;no;yes;no;female;not willing to say;25/08/2000;150;98.0;0.0;23.0;04:00;no course;鲜锅兔
 4-1-2025 12:19:08;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;23/12/2000;400;10.0;8.0;9.0;01:00;Nice weather;Free time
-4-1-2025 12:19:09;Computer Science;yes;yes;unknown;yes;male;not willing to say;30/01/2000;300;-1.0;12.0;4.0;1;Good food;Good weather
+4-1-2025 12:19:09;Computer Science;yes;yes;unknown;yes;male;not willing to say;30/01/2000;300;-1.0;12.0;4.0;01:00;Good food;Good weather
 4-1-2025 12:19:10;Bioinformatics;yes;no;yes;no;female;yes;20/01/2002;350;30.0;2.0;9.0;22:30;Food;More food
 4-1-2025 12:19:11;Artificial Intelligence;yes;yes;yes;yes;female;yes;23;380;23.0;3.0;39587.0;12:30;Good food;Talking to friends
 4-1-2025 12:19:11;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;01/01/1998;500;70.0;2.0;7.0;23:00;Good food;Good sleep
-4-1-2025 12:19:11;Bioinformatics;yes;no;yes;no;male;yes;Dec 08, 2001;240;65.0;4.0;35.0;2 am;Cola;Gaming
-4-1-2025 12:19:12;Artificial Intelligence;no;no;yes;no;male;not willing to say;September 5;400;40.0;3.0;60000000.0;2am;Productivity;Friends
+4-1-2025 12:19:11;Bioinformatics;yes;no;yes;no;male;yes;Dec 08, 2001;240;65.0;4.0;35.0;02:00;Cola;Gaming
+4-1-2025 12:19:12;Artificial Intelligence;no;no;yes;no;male;not willing to say;September 5;400;40.0;3.0;60000000.0;02:00;Productivity;Friends
 4-1-2025 12:19:13;Econometrics;yes;yes;no;yes;male;not willing to say;2003 July ;220;22.0;9.0;18.0;02:00;Sun;Sun
-4-1-2025 12:19:14;Artificial Intelligence;yes;yes;yes;yes;female;yes;11/08/2002;253;55.0;4.0;21.0;1:03 ;Sun ;Laughter 
+4-1-2025 12:19:14;Artificial Intelligence;yes;yes;yes;yes;female;yes;11/08/2002;253;55.0;4.0;21.0;01:03;Sun ;Laughter 
 4-1-2025 12:19:14;Business Analytics;yes;yes;yes;yes;male;yes;29-09;300;25.0;11.0;3.891736819378484e+24;23:30;Personal record in the gym;Good food
 4-1-2025 12:19:15;Artificial Intelligence;yes;no;yes;unknown;female;yes;05/05/2002;280;20.0;7.0;93.0;00:10;That I feel content and happy;Doing something 
-4-1-2025 12:19:17;Computer Science;no;yes;no;no;male;yes;04/10/2001;230;8.0;6.0;88.0;1:37;Good food;Girlfriend
+4-1-2025 12:19:17;Computer Science;no;yes;no;no;male;yes;04/10/2001;230;8.0;6.0;88.0;01:37;Good food;Girlfriend
 4-1-2025 12:19:17;Business Analytics;yes;yes;yes;yes;not willing to answer;yes;28;450;40.0;4.0;576435000000.0;22:00;Cooking;Sun
 4-1-2025 12:19:17;Artificial Intelligence;no;no;yes;yes;female;yes;04/10/2001;200;20.0;8.0;9.0;00:00;Good sleep;Friends
 4-1-2025 12:19:19;Artificial Intelligence;no;no;no;no;male;yes;13/07/2001;350;60.0;6.0;7.0;11:00;Good weather;Great food
-4-1-2025 12:19:21;Finance;yes;no;no;no;male;yes;13;550;65.0;2.0;7.0;12.00;Good Breakfast;Completing targetted task
-4-1-2025 12:19:22;Econometrics;yes;no;no;no;male;yes;19 january;425;20.0;3.0;17.0;00:30 AM;Sleep;Meditation
+4-1-2025 12:19:21;Finance;yes;no;no;no;male;yes;13;550;65.0;2.0;7.0;12:00;Good Breakfast;Completing targetted task
+4-1-2025 12:19:22;Econometrics;yes;no;no;no;male;yes;19 january;425;20.0;3.0;17.0;00:30;Sleep;Meditation
 4-1-2025 12:19:22;Artificial Intelligence;yes;yes;yes;yes;male;yes;03/01/2003;300;15.0;9.0;35723490856.0;23:00;Sports;Time with friends
-4-1-2025 12:19:22;Bioinformatics;yes;no;yes;unknown;female;not willing to say;09/10/2002;350;70.0;4.0;10.0;00.15;having chocolate;Sun :))
+4-1-2025 12:19:22;Bioinformatics;yes;no;yes;unknown;female;not willing to say;09/10/2002;350;70.0;4.0;10.0;00:15;having chocolate;Sun :))
 4-1-2025 12:19:22;Artificial Intelligence;no;no;unknown;yes;female;yes;28/08/2000;500;70.0;1.0;2.0;00:30;The sun;Good food
 4-1-2025 12:19:23;Business Analytics;yes;yes;yes;yes;male;yes;14/11/2003;350;15.0;10.0;2.5726181449926163e+32;23:30;Banana;Apple
-4-1-2025 12:19:23;Computer Science;yes;no;yes;yes;male;yes;October;250;10.0;2.0;1683.0;1:30;Not having to wake up early;yes
+4-1-2025 12:19:23;Computer Science;yes;no;yes;yes;male;yes;October;250;10.0;2.0;1683.0;01:30;Not having to wake up early;yes
 4-1-2025 12:19:24;Econometrics;no;unknown;yes;no;female;not willing to say;June ;200;60.0;3.0;13.0;11:34;Sun;Rest
-4-1-2025 12:19:24;Artificial Intelligence;yes;unknown;yes;yes;female;yes;13/07;100;77.0;0.0;137.0;5 AM;Enough sleep;Good food
-4-1-2025 12:19:24;Computer Science;yes;yes;yes;yes;male;not willing to say;01/01/2000;-9999;;2.0;2147483649.0;3:00;🤔;🤷‍♂️
+4-1-2025 12:19:24;Artificial Intelligence;yes;unknown;yes;yes;female;yes;13/07;100;77.0;0.0;137.0;05:00;Enough sleep;Good food
+4-1-2025 12:19:24;Computer Science;yes;yes;yes;yes;male;not willing to say;01/01/2000;-9999;;2.0;2147483649.0;03:00;🤔;🤷‍♂️
 4-1-2025 12:19:26;Computer Science;unknown;no;yes;yes;male;no;When I was born;180;58.0;4.0;42.0;01:00;Coffee;Science
 4-1-2025 12:19:26;Business Analytics;yes;yes;unknown;yes;female;yes;18/05/2002;200;65.0;4.0;2.0;23:30;Sunny weather;Good food
 4-1-2025 12:19:27;Bioinformatics;yes;no;unknown;no;male;not willing to say;10/01/2001;350;47.0;5.0;57.0;00:33;Sun;Friends
 4-1-2025 12:19:28;Bioinformatics;yes;no;yes;no;female;yes;07/12/2000;220;63.0;5.0;78.0;22:30;Sun;Friends
-4-1-2025 12:19:28;Artificial Intelligence;yes;no;yes;yes;female;yes;19/08/2003;230;80.0;4.0;4678.0;11:30pm;a good breakfast ;good sleep
+4-1-2025 12:19:28;Artificial Intelligence;yes;no;yes;yes;female;yes;19/08/2003;230;80.0;4.0;4678.0;11:30;a good breakfast ;good sleep
 4-1-2025 12:19:30;Econometrics;yes;yes;no;yes;female;yes;02/10/2003;458;70.0;1.0;47.0;00:15;Sun;Family
-4-1-2025 12:19:31;Econometrics;yes;no;yes;no;male;yes;April 9th;350;69.0;4.0;52739.0;1:30am;Hanging out with friends;Being productive
+4-1-2025 12:19:31;Econometrics;yes;no;yes;no;male;yes;April 9th;350;69.0;4.0;52739.0;01:30;Hanging out with friends;Being productive
 4-1-2025 12:19:31;Artificial Intelligence;no;no;unknown;yes;male;yes;2/3/2003;210;50.0;2.0;74.0;01:00;Boardgames with friends;Dinner with family
-4-1-2025 12:19:31;Computer Science;no;no;yes;no;male;yes;16 June;150;85.0;10.0;14.0;1;Good weather;Stock trading profit
-4-1-2025 12:19:31;Green IT;yes;no;no;no;male;yes;9th of July;234;75.0;4.0;9.0;4:30;A fieldtrip with friends;A sunny picnic
+4-1-2025 12:19:31;Computer Science;no;no;yes;no;male;yes;16 June;150;85.0;10.0;14.0;01:00;Good weather;Stock trading profit
+4-1-2025 12:19:31;Green IT;yes;no;no;no;male;yes;9th of July;234;75.0;4.0;9.0;04:30;A fieldtrip with friends;A sunny picnic
 4-1-2025 12:19:32;Business Analytics;yes;no;yes;yes;male;yes;22/10/2000;450;100.0;0.0;18.0;05:00;Sunshine ;Good food
 4-1-2025 12:19:34;Artificial Intelligence;yes;yes;no;yes;female;yes;October 1st 2002;400;75.0;3.0;573.0;02:00;Nice food;Seeing friends
 4-1-2025 12:19:37;Artificial Intelligence;yes;yes;no;no;male;not willing to say;22/07/2000;300;61.0;6.0;1999.0;23:45;Good food;Fun people
 4-1-2025 12:19:37;Artificial Intelligence;yes;unknown;yes;yes;male;yes;26/11;420;20.0;12.0;81.0;22:45;Doing sports;Meeting friends
-4-1-2025 12:19:37;Econometrics;yes;unknown;yes;yes;female;yes;1/1/1;320;40.0;0.0;7.0;4:00;Sleep in;Free
-4-1-2025 12:19:38;Computer Science;no;no;yes;yes;female;yes;19/04/2000;450;5.0;10.0;7.0;1am;being outside in the sun;eating good food
-4-1-2025 12:19:39;Econometrics;yes;yes;no;no;male;not willing to say;12/11/2001;150;10.0;10.0;1000000.0;1 AM;Nice weather;Nice friends
-4-1-2025 12:19:41;Econometrics;yes;no;yes;yes;female;yes;21/01/1999;400;2.0;5.0;6.0;9:30;Peace of mind;Good food
+4-1-2025 12:19:37;Econometrics;yes;unknown;yes;yes;female;yes;1/1/1;320;40.0;0.0;7.0;04:00;Sleep in;Free
+4-1-2025 12:19:38;Computer Science;no;no;yes;yes;female;yes;19/04/2000;450;5.0;10.0;7.0;01:00;being outside in the sun;eating good food
+4-1-2025 12:19:39;Econometrics;yes;yes;no;no;male;not willing to say;12/11/2001;150;10.0;10.0;1000000.0;01:00;Nice weather;Nice friends
+4-1-2025 12:19:41;Econometrics;yes;no;yes;yes;female;yes;21/01/1999;400;2.0;5.0;6.0;09:30;Peace of mind;Good food
 4-1-2025 12:19:43;Bioinformatics;yes;no;no;yes;male;yes;16 juni 2001;500;20.0;5.0;3748.0;23:15;Play fieldhockey;Enjoy the weather
-4-1-2025 12:19:44;Artificial Intelligence;yes;yes;no;yes;male;yes;22/02;10000;69.0;14.0;69.0;2:00;Finding a big bag of money (never happens);Petting a cat
-4-1-2025 12:19:45;Computer Science;yes;yes;yes;yes;female;yes;01/01/2000;450;70.0;2.0;89.0;12:30am;enough sleep time;sun
+4-1-2025 12:19:44;Artificial Intelligence;yes;yes;no;yes;male;yes;22/02;10000;69.0;14.0;69.0;02:00;Finding a big bag of money (never happens);Petting a cat
+4-1-2025 12:19:45;Computer Science;yes;yes;yes;yes;female;yes;01/01/2000;450;70.0;2.0;89.0;12:30;enough sleep time;sun
 4-1-2025 12:19:45;Bioinformatics;yes;no;yes;no;male;yes;08/10/1999;450;8.0;5.0;69.0;02:15;Friends;No school
 4-1-2025 12:19:45;Artificial Intelligence;yes;no;yes;yes;female;yes;22/09/2003;330;40.0;3.0;18.0;01:00;Nice weather;Seeing my loved ones 
-4-1-2025 12:19:50;Artificial Intelligence;yes;yes;yes;yes;male;yes;2003.02.12.;387;2.0;13.0;73.0;1;snorkeling;eating
+4-1-2025 12:19:50;Artificial Intelligence;yes;yes;yes;yes;male;yes;2003.02.12.;387;2.0;13.0;73.0;01:00;snorkeling;eating
 4-1-2025 12:19:50;Artificial Intelligence;yes;yes;yes;yes;female;yes;19/11/2002;300;20.0;4.0;87.0;00:00;Reading;F1
 4-1-2025 12:19:51;Artificial Intelligence;yes;no;yes;no;female;yes;24.01.;380;50.0;8.0;2115.0;00:10;good, sunny weather;spending time with my friends
 4-1-2025 12:19:53;Artificial Intelligence;yes;yes;yes;yes;female;yes;07/10/2002;500;85.0;3.0;15.0;00:30;Seeing friends;No academic stress
-4-1-2025 12:19:57;Econometrics;yes;no;no;yes;female;yes;10/10/2002;350;70.0;1.0;2.0;21.30;Sunny weather;Good food
-4-1-2025 12:20:00;Artificial Intelligence;yes;yes;no;no;male;yes;17/02/1992;400;33.0;2.0;9277466.0;12.30am;Baking;Hiking
+4-1-2025 12:19:57;Econometrics;yes;no;no;yes;female;yes;10/10/2002;350;70.0;1.0;2.0;21:30;Sunny weather;Good food
+4-1-2025 12:20:00;Artificial Intelligence;yes;yes;no;no;male;yes;17/02/1992;400;33.0;2.0;9277466.0;00:30;Baking;Hiking
 4-1-2025 12:20:02;Artificial Intelligence;yes;yes;yes;yes;female;yes;20/01/2000;350;20.0;3.0;4.0;23:00;Seeing my friends;Sunny weather
 4-1-2025 12:20:06;Artificial Intelligence;yes;no;yes;no;male;yes;08.09;380;40.0;2.0;947362.0;21:30;Chocolate ;Sun
 4-1-2025 12:20:07;Artificial Intelligence;yes;yes;no;yes;male;yes;05/06/2003;320;15.0;7.0;69.0;23:30;Good weather ;Company 
-4-1-2025 12:20:14;Computer Science;no;no;unknown;yes;male;not willing to say;20/02/2000;520;50.0;10.0;123.0;10;sun;wind
-4-1-2025 12:20:31;Big Data Engineering ;yes;yes;unknown;yes;female;yes;/;450;69.0;6.0;19898901.0;1am;Music;Reading
+4-1-2025 12:20:14;Computer Science;no;no;unknown;yes;male;not willing to say;20/02/2000;520;50.0;10.0;123.0;10:00;sun;wind
+4-1-2025 12:20:31;Big Data Engineering ;yes;yes;unknown;yes;female;yes;/;450;69.0;6.0;19898901.0;01:00;Music;Reading
 4-1-2025 12:20:34;Software Engineering and Green IT;yes;yes;yes;yes;male;yes;05/09/2001;350;99.0;5.0;3951.0;00:54;No nearing deadlines;Good weather
-4-1-2025 12:20:43;Artificial Intelligence;no;yes;yes;yes;male;yes;2003;550;40.0;0.0;0.0;4:00;Free time;I get a lot done
+4-1-2025 12:20:43;Artificial Intelligence;no;yes;yes;yes;male;yes;2003;550;40.0;0.0;0.0;04:00;Free time;I get a lot done
 4-1-2025 12:20:46;Computer Science;yes;unknown;yes;yes;not willing to answer;not willing to say;19000000;-3;;;;1743502757;👁️‍🗨️;🥴
-4-1-2025 12:20:47;Computer Science;yes;yes;yes;yes;male;not willing to say;083002;460;60.0;5.0;56.0;1:30;Good gym session ;Sun and a chest PR
-4-1-2025 12:21:33;Computer Science;yes;no;no;yes;male;not willing to say;09/01/2003;300;35.0;5.0;69.0;2am;beer in the sun;2 beers in the sun
-4-1-2025 12:21:34;Computer Science;yes;yes;yes;yes;female;yes;27/08/2002;450;75.0;5.0;88.0;23.30;Have free time to chill;Smoke
+4-1-2025 12:20:47;Computer Science;yes;yes;yes;yes;male;not willing to say;083002;460;60.0;5.0;56.0;01:30;Good gym session ;Sun and a chest PR
+4-1-2025 12:21:33;Computer Science;yes;no;no;yes;male;not willing to say;09/01/2003;300;35.0;5.0;69.0;02:00;beer in the sun;2 beers in the sun
+4-1-2025 12:21:34;Computer Science;yes;yes;yes;yes;female;yes;27/08/2002;450;75.0;5.0;88.0;23:30;Have free time to chill;Smoke
 4-1-2025 12:21:51;Computational Science;no;no;yes;yes;male;no;2-5-2001;200;45.0;1.0;42.0;02:00;not wake up tired;get at least one thing done

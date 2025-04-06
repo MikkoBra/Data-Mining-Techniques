@@ -3,6 +3,7 @@ import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import re
+from datetime import datetime
 
 
 def import_raw_data():
@@ -230,6 +231,43 @@ def clean_and_convert_random_number(df):
     return df
 
 
+def convert_to_military_time(time_string):
+    formats = [
+        "%H:%M",  # hh:mm
+        "%Hh%M", # hh'h'mm
+        "%Hu%M", # hh'u'mm
+        "%H.%M",  # hh.mm
+        "%I.%M",  # h.mm
+        "%H-%M",  # hh-mm
+        "%H",  # hh
+        "%I",  # h
+        "%H%M",  # hhmm
+        "%I%M",  # hmm
+        "%I%p",  # hAM/PM
+        "%H%p",  # hhAM/PM
+        "%H:%M %p",  # hh:mm AM/PM
+        "%I:%M %p",  # h:mm AM/PM
+        "%H %p",  # hh AM/PM
+        "%I %p",  # hh AM/PM
+        "%H:%M%p",  # hh:mmAM/PM
+        "%I:%M%p",  # h:mmAM/PM
+        "%I.%M%p",  # h.mmAM/PM
+    ]
+    for format in formats:
+        try:
+            return datetime.strptime(time_string.strip().lower(), format).strftime("%H:%M")
+        except ValueError:
+            continue
+    print(f"Could not parse time_string: {time_string}")
+    return time_string
+
+
+def convert_bedtime(df):
+    for idx, value in df['bedtime'].items():
+        df.at[idx, 'bedtime'] = convert_to_military_time(value)
+    return df
+
+
 def clean_and_save(df):
     df.drop(df.tail(1).index,inplace=True)
     df = clean_programmes(df)
@@ -239,6 +277,7 @@ def clean_and_save(df):
     df = clean_and_convert_stress(df)
     df = clean_and_convert_sports(df)
     df = clean_and_convert_random_number(df)
+    df = convert_bedtime(df)
     save_dataframe_to_file(df)
 
 
