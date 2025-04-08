@@ -1,6 +1,42 @@
 import pandas as pd
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as plt
+
+df = pd.read_excel('/content/ODI-2025.xlsx')
+
+print(f"Aantal records: {df.shape[0]}")
+print(f"Aantal attributen: {df.shape[1]}")
+print("Kolomnamen:", df.columns.tolist())
+
+# load the Excel file
+file_path = 'ODI-2025.xlsx'
+df = pd.read_excel(file_path, sheet_name='ODI 2025')
+
+# clean column names
+df.columns = df.columns.str.strip()
+
+# distributions
+categorical_cols = [
+    "What programme are you in?",
+    "Have you taken a course on machine learning?",
+    "Have you taken a course on information retrieval?",
+    "Have you taken a course on statistics?",
+    "Have you taken a course on databases?",
+    "What is your gender?",
+    "I have used ChatGPT to help me with some of my study assignments",
+    "Time you went to bed Yesterday"
+]
+
+for col in categorical_cols:
+    plt.figure(figsize=(10, 4))
+    df[col].value_counts().head(10).plot(kind='bar')
+    plt.title(f"Distribution of {col}")
+    plt.ylabel("Count")
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.show()
 
 
 def import_raw_data():
