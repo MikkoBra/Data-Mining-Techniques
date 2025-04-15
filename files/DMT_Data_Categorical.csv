@@ -1,0 +1,243 @@
+timestamp;programme;machine_learning;information_retrieval;statistics;databases;gender;chatgpt;student_estimate;stress;sports;bedtime;age
+2025-04-01 12:17:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;medium;high;low;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;female;yes;medium;medium;low;middle;middle
+2025-04-01 12:17:00;Econometrics;yes;yes;yes;yes;male;not willing to say;low;medium;medium;middle;middle
+2025-04-01 12:17:00;Econometrics;yes;no;yes;no;male;yes;medium;medium;medium;middle;young
+2025-04-01 12:17:00;Bioinformatics;yes;yes;yes;yes;male;yes;high;medium;high;middle;middle
+2025-04-01 12:17:00;Econometrics;no;unknown;yes;no;other;not willing to say;high;high;high;late;middle
+2025-04-01 12:17:00;Econometrics;no;no;yes;yes;female;yes;high;medium;medium;middle;middle
+2025-04-01 12:17:00;Computer Science;yes;no;no;yes;male;not willing to say;medium;low;low;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;yes;female;yes;high;medium;medium;middle;middle
+2025-04-01 12:17:00;Computer Science;no;no;yes;yes;other;not willing to say;low;high;low;late;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;female;yes;low;high;medium;middle;middle
+2025-04-01 12:17:00;Computer Science;yes;yes;unknown;yes;male;yes;medium;low;medium;middle;old
+2025-04-01 12:17:00;Other;yes;unknown;yes;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;no;high;medium;medium;early;middle
+2025-04-01 12:17:00;Computer Science;yes;yes;unknown;yes;female;no;low;high;low;early;middle
+2025-04-01 12:17:00;Computer Science;no;no;yes;yes;male;yes;high;medium;low;late;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;male;yes;medium;medium;high;middle;old
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;yes;female;yes;medium;low;high;middle;old
+2025-04-01 12:17:00;Bioinformatics;yes;no;unknown;unknown;female;yes;low;medium;low;middle;middle
+2025-04-01 12:17:00;Business Analytics;yes;no;no;yes;female;yes;low;high;low;late;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;low;high;middle;young
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;high;low;medium;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;medium;high;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;no;male;yes;low;low;medium;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;low;medium;medium;middle;young
+2025-04-01 12:17:00;Computational Science;no;no;yes;no;female;yes;high;low;high;middle;old
+2025-04-01 12:17:00;Econometrics;no;no;yes;no;female;not willing to say;low;high;medium;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;high;medium;high;late;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;unknown;yes;female;not willing to say;low;low;medium;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;low;low;high;middle;middle
+2025-04-01 12:17:00;Econometrics;no;no;yes;no;male;yes;low;medium;low;middle;old
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;no;male;yes;high;low;high;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;other;yes;medium;high;high;late;middle
+2025-04-01 12:17:00;Computer Science;no;unknown;yes;yes;female;no;low;high;low;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;male;yes;low;low;medium;middle;middle
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;no;male;yes;low;high;medium;late;old
+2025-04-01 12:17:00;Computational Science;yes;no;yes;no;male;yes;high;low;high;middle;middle
+2025-04-01 12:17:00;Finance;yes;no;yes;no;male;yes;high;high;low;middle;middle
+2025-04-01 12:17:00;Computer Science;yes;yes;yes;yes;female;yes;low;low;low;middle;middle
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;female;yes;medium;low;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;female;yes;high;medium;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Finance;yes;no;yes;yes;male;yes;low;low;high;middle;young
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;female;yes;medium;high;high;middle;middle
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;no;medium;low;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;yes;male;not willing to say;low;medium;high;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;high;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;low;high;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;medium;high;high;middle;middle
+2025-04-01 12:18:00;Computer Science;no;no;yes;yes;male;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Other;yes;yes;no;yes;other;not willing to say;low;high;low;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;male;no;medium;low;high;middle;old
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;no;no;other;yes;medium;medium;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;female;yes;low;medium;low;late;old
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;other;yes;medium;low;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;medium;low;medium;late;middle
+2025-04-01 12:18:00;Business Analytics;yes;no;yes;no;female;yes;high;low;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;unknown;male;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;male;yes;low;low;high;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;high;medium;medium;middle;middle
+2025-04-01 12:18:00;Computational Science;no;no;yes;yes;female;yes;medium;medium;high;middle;old
+2025-04-01 12:18:00;Bioinformatics;yes;unknown;yes;unknown;male;no;low;low;medium;middle;old
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;female;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;low;high;medium;early;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;no;yes;other;yes;high;high;low;late;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;yes;female;yes;medium;low;low;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;male;yes;medium;high;high;middle;middle
+2025-04-01 12:18:00;Business Analytics;yes;unknown;yes;no;male;not willing to say;low;medium;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;other;not willing to say;low;low;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;medium;low;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;high;medium;medium;middle;middle
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;yes;low;medium;medium;middle;middle
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Computer Science;no;yes;unknown;no;male;yes;medium;medium;high;late;middle
+2025-04-01 12:18:00;Computer Science;yes;no;yes;yes;female;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;unknown;male;yes;medium;low;medium;middle;old
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;medium;low;medium;middle;middle
+2025-04-01 12:18:00;Computational Science;yes;unknown;yes;yes;female;yes;medium;medium;high;middle;old
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;female;yes;medium;low;high;late;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;no;male;yes;low;low;high;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;male;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;medium;low;high;middle;middle
+2025-04-01 12:18:00;Computational Science;yes;no;yes;no;female;yes;medium;medium;medium;middle;old
+2025-04-01 12:18:00;Econometrics;yes;no;yes;yes;male;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;male;yes;low;low;high;middle;young
+2025-04-01 12:18:00;Computer Science;no;no;no;no;other;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Other;no;yes;yes;no;female;yes;low;medium;high;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;other;yes;medium;medium;low;late;middle
+2025-04-01 12:18:00;Computational Science;yes;unknown;yes;no;male;yes;high;high;medium;middle;old
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;low;high;low;late;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;not willing to say;high;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;female;yes;low;low;low;late;middle
+2025-04-01 12:18:00;Computer Science;yes;no;yes;yes;female;yes;high;high;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;other;not willing to say;medium;high;high;middle;middle
+2025-04-01 12:18:00;Bioinformatics;no;no;no;no;female;yes;low;low;high;middle;middle
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;male;not willing to say;medium;high;high;late;young
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;female;yes;low;medium;medium;middle;middle
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;female;not willing to say;medium;medium;medium;early;middle
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;yes;medium;low;high;middle;old
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;male;yes;low;low;high;middle;middle
+2025-04-01 12:18:00;Computational Science;yes;no;yes;no;male;not willing to say;low;medium;medium;middle;old
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;no;other;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Bioinformatics;yes;yes;yes;no;male;yes;low;medium;medium;middle;old
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;female;not willing to say;high;medium;low;early;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;high;low;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;female;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;no;unknown;yes;other;yes;low;low;medium;late;middle
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;medium;low;medium;middle;young
+2025-04-01 12:18:00;Business Analytics;yes;no;unknown;yes;male;yes;low;low;high;middle;young
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;no;low;high;low;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;no;yes;male;yes;low;low;high;middle;middle
+2025-04-01 12:18:00;Computer Science;no;no;no;no;female;yes;low;high;medium;late;middle
+2025-04-01 12:18:00;Computational Science;no;no;yes;yes;male;yes;low;low;high;middle;old
+2025-04-01 12:18:00;Bioinformatics;yes;unknown;unknown;unknown;male;yes;high;high;high;middle;middle
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;male;no;high;medium;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;high;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;no;female;yes;medium;medium;low;middle;middle
+2025-04-01 12:18:00;Bioinformatics;no;no;yes;yes;male;yes;low;high;low;late;middle
+2025-04-01 12:18:00;Other;yes;yes;yes;yes;male;yes;medium;low;medium;late;middle
+2025-04-01 12:18:00;Finance;yes;no;yes;yes;male;yes;high;medium;low;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;no;male;yes;low;high;medium;middle;middle
+2025-04-01 12:18:00;Computer Science;no;unknown;unknown;unknown;male;not willing to say;high;high;medium;late;middle
+2025-04-01 12:18:00;Other;yes;no;yes;no;male;yes;low;low;high;late;middle
+2025-04-01 12:18:00;Business Analytics;yes;unknown;yes;yes;female;yes;high;low;high;middle;old
+2025-04-01 12:18:00;Finance;yes;no;yes;no;male;yes;medium;low;high;middle;middle
+2025-04-01 12:18:00;Computational Science;no;no;yes;no;male;yes;low;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;other;not willing to say;high;high;medium;late;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;male;yes;medium;medium;medium;middle;young
+2025-04-01 12:18:00;Artificial Intelligence;no;yes;yes;yes;male;yes;low;low;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;male;yes;low;medium;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;unknown;yes;male;yes;low;high;medium;late;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;yes;male;yes;low;high;medium;late;old
+2025-04-01 12:18:00;Computer Science;no;yes;yes;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;male;yes;low;medium;medium;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;no;yes;male;yes;medium;medium;low;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;low;low;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;no;female;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;not willing to say;medium;medium;medium;late;middle
+2025-04-01 12:18:00;Bioinformatics;yes;yes;yes;no;male;yes;high;low;medium;middle;middle
+2025-04-01 12:18:00;Bioinformatics;yes;no;unknown;no;male;yes;low;high;high;late;middle
+2025-04-01 12:18:00;Computational Science;no;no;no;no;male;yes;low;medium;medium;early;old
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;female;not willing to say;medium;high;medium;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;no;low;low;high;late;old
+2025-04-01 12:18:00;Bioinformatics;no;unknown;no;yes;male;yes;low;high;high;early;middle
+2025-04-01 12:18:00;Business Analytics;yes;no;yes;yes;female;yes;low;medium;low;middle;middle
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;male;not willing to say;low;low;medium;middle;middle
+2025-04-01 12:18:00;Bioinformatics;no;yes;no;yes;female;yes;medium;low;medium;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;female;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Econometrics;yes;no;yes;yes;other;no;high;low;low;middle;middle
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;female;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;low;low;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;medium;low;high;middle;middle
+2025-04-01 12:18:00;Computer Science;no;no;unknown;yes;female;yes;low;medium;low;late;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;medium;medium;high;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;medium;medium;medium;middle;middle
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;female;no;low;high;medium;middle;middle
+2025-04-01 12:19:00;Computational Science;yes;no;yes;no;female;yes;low;low;medium;middle;old
+2025-04-01 12:19:00;Computer Science;no;yes;no;yes;male;yes;medium;medium;high;middle;old
+2025-04-01 12:19:00;Other;yes;no;yes;yes;female;yes;medium;high;low;late;middle
+2025-04-01 12:19:00;Econometrics;yes;yes;yes;yes;female;yes;medium;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;medium;low;low;late;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;female;yes;medium;medium;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:19:00;Business Analytics;yes;unknown;no;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;high;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;unknown;yes;male;yes;medium;medium;high;middle;middle
+2025-04-01 12:19:00;Computer Science;no;unknown;yes;yes;male;yes;medium;low;medium;late;middle
+2025-04-01 12:19:00;Finance;yes;unknown;yes;no;male;yes;low;medium;medium;late;middle
+2025-04-01 12:19:00;Econometrics;yes;yes;yes;no;male;not willing to say;low;low;high;middle;young
+2025-04-01 12:19:00;Finance;yes;no;yes;no;male;not willing to say;medium;medium;high;late;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;no;yes;male;yes;medium;low;medium;middle;young
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;low;high;middle;middle
+2025-04-01 12:19:00;Computer Science;yes;no;yes;yes;male;yes;low;low;high;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;medium;medium;high;middle;young
+2025-04-01 12:19:00;Computational Science;yes;no;yes;no;female;not willing to say;low;high;low;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;medium;low;high;middle;middle
+2025-04-01 12:19:00;Computer Science;yes;yes;unknown;yes;male;not willing to say;low;medium;high;middle;middle
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;female;yes;medium;low;low;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;medium;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;high;high;low;middle;old
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;male;yes;low;medium;medium;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;no;no;yes;no;male;not willing to say;medium;medium;medium;late;young
+2025-04-01 12:19:00;Econometrics;yes;yes;no;yes;male;not willing to say;low;low;high;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;male;yes;low;low;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;unknown;female;yes;low;low;high;middle;middle
+2025-04-01 12:19:00;Computer Science;no;yes;no;no;male;yes;low;low;medium;late;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;other;yes;medium;medium;medium;early;middle
+2025-04-01 12:19:00;Artificial Intelligence;no;no;yes;yes;female;yes;low;low;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;no;no;no;no;male;yes;medium;medium;medium;middle;middle
+2025-04-01 12:19:00;Finance;yes;no;no;no;male;yes;high;medium;low;middle;middle
+2025-04-01 12:19:00;Econometrics;yes;no;no;no;male;yes;medium;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;low;low;high;middle;middle
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;unknown;female;not willing to say;medium;high;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;no;no;unknown;yes;female;yes;high;high;low;middle;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;male;yes;medium;low;high;middle;young
+2025-04-01 12:19:00;Computer Science;yes;no;yes;yes;male;yes;low;low;low;late;middle
+2025-04-01 12:19:00;Econometrics;no;unknown;yes;no;female;not willing to say;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;unknown;yes;yes;female;yes;low;high;low;late;middle
+2025-04-01 12:19:00;Computer Science;yes;yes;yes;yes;male;not willing to say;medium;medium;low;late;middle
+2025-04-01 12:19:00;Computer Science;unknown;no;yes;yes;male;no;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Business Analytics;yes;yes;unknown;yes;female;yes;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Bioinformatics;yes;no;unknown;no;male;not willing to say;medium;medium;medium;middle;middle
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;female;yes;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;low;high;medium;middle;young
+2025-04-01 12:19:00;Econometrics;yes;yes;no;yes;female;yes;high;high;low;middle;young
+2025-04-01 12:19:00;Econometrics;yes;no;yes;no;male;yes;medium;high;medium;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;no;no;unknown;yes;male;yes;low;medium;low;middle;middle
+2025-04-01 12:19:00;Computer Science;no;no;yes;no;male;yes;low;high;high;middle;middle
+2025-04-01 12:19:00;Other;yes;no;no;no;male;yes;low;high;medium;late;middle
+2025-04-01 12:19:00;Business Analytics;yes;no;yes;yes;male;yes;medium;high;low;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;yes;female;yes;medium;high;medium;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;no;male;not willing to say;low;medium;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;medium;low;high;middle;middle
+2025-04-01 12:19:00;Econometrics;yes;unknown;yes;yes;female;yes;medium;medium;low;late;middle
+2025-04-01 12:19:00;Computer Science;no;no;yes;yes;female;yes;medium;low;high;middle;middle
+2025-04-01 12:19:00;Econometrics;yes;yes;no;no;male;not willing to say;low;low;high;middle;middle
+2025-04-01 12:19:00;Econometrics;yes;no;yes;yes;female;yes;medium;low;medium;early;old
+2025-04-01 12:19:00;Bioinformatics;yes;no;no;yes;male;yes;high;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;yes;male;yes;medium;high;high;late;middle
+2025-04-01 12:19:00;Computer Science;yes;yes;yes;yes;female;yes;medium;high;low;middle;middle
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;male;yes;medium;low;medium;late;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;medium;medium;medium;middle;young
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;medium;low;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;low;low;medium;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;no;female;yes;medium;medium;high;middle;middle
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;high;high;medium;middle;middle
+2025-04-01 12:19:00;Econometrics;yes;no;no;yes;female;yes;medium;high;low;early;middle
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;no;no;male;yes;medium;low;low;middle;old
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;medium;low;medium;middle;middle
+2025-04-01 12:20:00;Artificial Intelligence;yes;no;yes;no;male;yes;medium;medium;low;early;middle
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;no;yes;male;yes;medium;low;high;middle;young
+2025-04-01 12:20:00;Computer Science;no;no;unknown;yes;male;not willing to say;high;medium;high;early;middle
+2025-04-01 12:20:00;Other;yes;yes;unknown;yes;female;yes;medium;high;medium;middle;middle
+2025-04-01 12:20:00;Other;yes;yes;yes;yes;male;yes;medium;high;medium;middle;middle
+2025-04-01 12:20:00;Artificial Intelligence;no;yes;yes;yes;male;yes;high;medium;low;late;middle
+2025-04-01 12:20:00;Computer Science;yes;yes;yes;yes;male;not willing to say;high;medium;medium;late;middle
+2025-04-01 12:21:00;Computer Science;yes;no;no;yes;male;not willing to say;low;medium;medium;late;middle
+2025-04-01 12:21:00;Computer Science;yes;yes;yes;yes;female;yes;medium;high;medium;middle;middle
+2025-04-01 12:21:00;Computational Science;no;no;yes;yes;male;no;low;medium;low;late;middle
