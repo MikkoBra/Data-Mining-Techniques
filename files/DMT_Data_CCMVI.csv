@@ -1,0 +1,243 @@
+timestamp;programme;machine_learning;information_retrieval;statistics;databases;gender;chatgpt;student_estimate;stress;sports;bedtime;age
+2025-04-01 12:17:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;400.0;78.0;0.0;00:00;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;female;yes;321.0;41.5;2.0;00:30;23.0
+2025-04-01 12:17:00;Econometrics;yes;yes;yes;yes;male;not willing to say;200.0;36.139375;4.0;00:30;23.0
+2025-04-01 12:17:00;Econometrics;yes;no;yes;no;male;yes;350.0;60.0;6.0;23:00;21.0
+2025-04-01 12:17:00;Bioinformatics;yes;yes;yes;yes;male;yes;500.0;50.0;8.0;00:00;24.0
+2025-04-01 12:17:00;Econometrics;no;unknown;yes;no;other;not willing to say;467.0;99.7;8.0;05:00;23.0
+2025-04-01 12:17:00;Econometrics;no;no;yes;yes;female;yes;500.0;60.0;4.0;00:00;25.0
+2025-04-01 12:17:00;Computer Science;yes;no;no;yes;male;not willing to say;400.0;30.0;1.0;00:00;24.25
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;yes;female;yes;500.0;60.0;3.0;22:30;24.0
+2025-04-01 12:17:00;Computer Science;no;no;yes;yes;other;not willing to say;200.0;70.0;1.0;02:00;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;female;yes;250.0;100.0;4.0;23:00;25.0
+2025-04-01 12:17:00;Computer Science;yes;yes;unknown;yes;male;yes;400.0;20.0;4.0;00:00;26.0
+2025-04-01 12:17:00;Other;yes;unknown;yes;yes;male;yes;345.0;60.0;8.0;00:00;25.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;no;500.0;50.0;4.0;21:00;23.0
+2025-04-01 12:17:00;Computer Science;yes;yes;unknown;yes;female;no;200.0;70.0;2.0;21:00;24.25
+2025-04-01 12:17:00;Computer Science;no;no;yes;yes;male;yes;500.0;42.5;0.0;02:00;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;male;yes;400.0;50.0;7.0;01:00;42.0
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;yes;female;yes;400.0;30.0;10.0;23:30;26.0
+2025-04-01 12:17:00;Bioinformatics;yes;no;unknown;unknown;female;yes;200.0;38.5625;0.0;23:30;22.0
+2025-04-01 12:17:00;Business Analytics;yes;no;no;yes;female;yes;200.0;70.0;0.0;02:00;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;200.0;5.0;12.0;01:00;21.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;500.0;8.0;6.0;23:00;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;300.0;41.5;10.0;01:00;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;no;no;yes;no;male;yes;300.0;20.0;3.0;00:30;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;300.0;50.0;4.0;23:30;21.0
+2025-04-01 12:17:00;Computational Science;no;no;yes;no;female;yes;500.0;15.0;12.0;00:30;25.22222222222222
+2025-04-01 12:17:00;Econometrics;no;no;yes;no;female;not willing to say;100.0;75.0;6.0;00:30;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;550.0;41.5;7.0;02:00;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;unknown;yes;female;not willing to say;180.0;2.0;4.0;01:00;23.660714285714285
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;yes;female;yes;300.0;3.0;10.0;00:00;23.0
+2025-04-01 12:17:00;Econometrics;no;no;yes;no;male;yes;300.0;55.0;2.0;00:00;26.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;no;male;yes;456.0;20.0;9.0;00:00;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;other;yes;337.14285714285717;100.0;10.0;05:00;23.660714285714285
+2025-04-01 12:17:00;Computer Science;no;unknown;yes;yes;female;no;100.0;100.0;1.0;00:00;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;yes;no;yes;male;yes;250.0;20.0;5.0;23:30;24.0
+2025-04-01 12:17:00;Artificial Intelligence;yes;no;yes;no;male;yes;250.0;80.0;4.0;04:00;27.0
+2025-04-01 12:17:00;Computational Science;yes;no;yes;no;male;yes;487.0;30.0;7.0;22:30;22.0
+2025-04-01 12:17:00;Finance;yes;no;yes;no;male;yes;490.0;75.0;0.0;01:00;23.0
+2025-04-01 12:17:00;Computer Science;yes;yes;yes;yes;female;yes;300.0;10.0;2.0;00:30;24.25
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;female;yes;450.0;10.0;3.0;01:30;22.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;female;yes;550.0;50.0;8.0;00:30;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;350.0;45.0;4.0;23:30;22.0
+2025-04-01 12:18:00;Finance;yes;no;yes;yes;male;yes;300.0;5.0;8.0;00:00;21.0
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;female;yes;450.0;89.0;7.0;23:30;22.0
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;no;350.0;0.0;4.0;03:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;yes;male;not willing to say;200.0;49.0;7.0;02:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;600.0;41.5;4.0;01:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;200.0;0.0;6.178571428571429;02:00;22.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;320.0;70.0;12.0;00:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;no;no;yes;yes;male;yes;200.0;30.0;5.0;00:00;23.0
+2025-04-01 12:18:00;Other;yes;yes;no;yes;other;not willing to say;300.0;72.0;2.0;00:00;23.25
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;male;no;350.0;5.0;9.0;01:00;28.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;no;no;other;yes;450.0;60.0;3.0;04:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;female;yes;150.0;60.0;2.0;02:00;26.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;other;yes;375.0;6.0;10.0;23:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;200.0;13.0;6.0;00:00;24.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;350.0;0.0;5.0;04:00;23.660714285714285
+2025-04-01 12:18:00;Business Analytics;yes;no;yes;no;female;yes;500.0;2.0;4.0;01:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;unknown;male;yes;400.0;60.0;6.0;00:30;25.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;male;yes;187.0;11.0;7.0;02:30;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;500.0;60.0;6.0;01:00;23.660714285714285
+2025-04-01 12:18:00;Computational Science;no;no;yes;yes;female;yes;350.0;35.0;7.0;01:00;27.0
+2025-04-01 12:18:00;Bioinformatics;yes;unknown;yes;unknown;male;no;300.0;15.0;5.0;00:00;30.0
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;female;yes;400.0;66.0;6.0;23:30;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;80.0;80.0;6.0;22:00;22.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;no;yes;other;yes;500.0;100.0;2.0;05:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;yes;female;yes;450.0;20.0;0.0;23:00;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;male;yes;450.0;90.0;10.0;00:30;23.660714285714285
+2025-04-01 12:18:00;Business Analytics;yes;unknown;yes;no;male;not willing to say;220.0;40.0;9.0;23:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;other;not willing to say;250.0;30.0;4.0;02:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;430.0;30.0;8.0;00:30;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;500.0;65.0;4.0;23:00;25.0
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;yes;250.0;49.888888888888886;5.0;23:00;23.0
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;350.0;42.0;10.0;23:00;24.0
+2025-04-01 12:18:00;Computer Science;no;yes;unknown;no;male;yes;380.0;42.5;10.0;02:00;22.0
+2025-04-01 12:18:00;Computer Science;yes;no;yes;yes;female;yes;314.3;60.0;4.0;23:00;24.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;unknown;male;yes;350.0;15.0;6.0;23:00;27.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;400.0;30.0;4.0;00:00;23.660714285714285
+2025-04-01 12:18:00;Computational Science;yes;unknown;yes;yes;female;yes;330.0;47.0;12.0;00:00;25.22222222222222
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;female;yes;350.0;10.0;12.0;02:00;23.0
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;no;male;yes;200.0;20.0;15.0;01:30;22.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;male;yes;250.0;20.0;3.0;00:30;23.660714285714285
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;385.0;6.0;7.0;00:00;22.0
+2025-04-01 12:18:00;Computational Science;yes;no;yes;no;female;yes;390.0;37.0;4.0;01:00;25.22222222222222
+2025-04-01 12:18:00;Econometrics;yes;no;yes;yes;male;yes;375.0;50.0;4.0;00:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;male;yes;195.0;0.0;10.0;00:30;19.0
+2025-04-01 12:18:00;Computer Science;no;no;no;no;other;yes;300.0;30.0;4.0;01:00;24.25
+2025-04-01 12:18:00;Other;no;yes;yes;no;female;yes;234.0;40.0;7.0;23:30;23.0
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;other;yes;330.0;42.5;0.0;05:00;24.25
+2025-04-01 12:18:00;Computational Science;yes;unknown;yes;no;male;yes;480.0;75.0;3.0;01:00;26.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;291.0;79.0;0.0;02:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;not willing to say;550.0;42.0;4.0;00:30;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;female;yes;200.0;30.0;0.0;01:30;23.0
+2025-04-01 12:18:00;Computer Science;yes;no;yes;yes;female;yes;500.0;100.0;3.0;13:00;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;other;not willing to say;420.0;100.0;8.0;23:30;23.0
+2025-04-01 12:18:00;Bioinformatics;no;no;no;no;female;yes;200.0;10.0;8.0;01:00;23.0
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;male;not willing to say;350.0;85.0;7.0;01:30;21.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;female;yes;289.0;40.0;6.0;23:30;24.0
+2025-04-01 12:18:00;Business Analytics;yes;yes;yes;yes;female;not willing to say;400.0;40.0;3.0;22:00;22.571428571428573
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;yes;350.0;25.0;20.0;23:00;25.22222222222222
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;male;yes;250.0;0.0;7.0;23:00;22.0
+2025-04-01 12:18:00;Computational Science;yes;no;yes;no;male;not willing to say;250.0;49.888888888888886;5.0;00:30;25.22222222222222
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;no;other;yes;337.14285714285717;41.5;10.0;23:00;23.660714285714285
+2025-04-01 12:18:00;Bioinformatics;yes;yes;yes;no;male;yes;250.0;60.0;4.0;23:30;26.0
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;female;not willing to say;600.0;40.0;0.0;19:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;600.0;22.0;5.0;23:30;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;unknown;yes;female;yes;150.0;20.0;4.0;00:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;yes;no;unknown;yes;other;yes;300.0;13.0;6.0;02:00;24.0
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;425.0;5.0;3.0;23:00;20.0
+2025-04-01 12:18:00;Business Analytics;yes;no;unknown;yes;male;yes;287.0;23.0;23.0;22:30;20.0
+2025-04-01 12:18:00;Computational Science;yes;no;yes;yes;male;no;300.0;100.0;0.0;23:00;24.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;no;yes;male;yes;300.0;30.0;7.0;00:30;22.0
+2025-04-01 12:18:00;Computer Science;no;no;no;no;female;yes;220.0;67.0;4.0;04:00;25.0
+2025-04-01 12:18:00;Computational Science;no;no;yes;yes;male;yes;300.0;1.0;7.0;01:00;34.0
+2025-04-01 12:18:00;Bioinformatics;yes;unknown;unknown;unknown;male;yes;500.0;69.0;10.0;00:00;25.0
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;male;no;483.0;52.25;3.0;03:00;23.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;300.0;75.0;4.0;23:00;25.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;no;female;yes;450.0;60.0;1.0;23:30;23.660714285714285
+2025-04-01 12:18:00;Bioinformatics;no;no;yes;yes;male;yes;240.0;100.0;2.0;03:00;23.9375
+2025-04-01 12:18:00;Other;yes;yes;yes;yes;male;yes;357.0;7.0;5.0;03:00;23.25
+2025-04-01 12:18:00;Finance;yes;no;yes;yes;male;yes;500.0;40.0;2.0;01:30;25.0
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;no;male;yes;297.0;69.0;6.0;23:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;no;unknown;unknown;unknown;male;not willing to say;500.0;80.0;6.0;08:00;23.0
+2025-04-01 12:18:00;Other;yes;no;yes;no;male;yes;300.0;20.0;8.0;01:30;23.25
+2025-04-01 12:18:00;Business Analytics;yes;unknown;yes;yes;female;yes;480.0;0.0;8.0;23:00;26.0
+2025-04-01 12:18:00;Finance;yes;no;yes;no;male;yes;350.0;20.0;8.0;23:30;23.0
+2025-04-01 12:18:00;Computational Science;no;no;yes;no;male;yes;300.0;55.0;6.0;00:30;24.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;no;yes;other;not willing to say;500.0;100.0;3.0;02:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;male;yes;366.0;57.0;6.0;00:30;21.0
+2025-04-01 12:18:00;Artificial Intelligence;no;yes;yes;yes;male;yes;300.0;15.0;8.0;00:30;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;male;yes;300.0;45.0;4.0;02:00;23.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;unknown;yes;male;yes;123.0;90.0;4.0;04:00;23.660714285714285
+2025-04-01 12:18:00;Computer Science;yes;yes;unknown;yes;male;yes;300.0;75.0;3.0;03:00;26.0
+2025-04-01 12:18:00;Computer Science;no;yes;yes;yes;male;yes;450.0;42.5;6.15;01:00;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;125.0;41.5;4.0;23:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;no;no;yes;yes;male;yes;200.0;65.0;3.0;02:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;no;yes;male;yes;378.0;41.5;2.0;04:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;yes;yes;yes;female;not willing to say;200.0;30.0;5.0;23:30;22.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;unknown;yes;no;female;yes;400.0;40.0;10.0;00:00;23.0
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;not willing to say;390.0;42.5;3.0;05:00;24.0
+2025-04-01 12:18:00;Bioinformatics;yes;yes;yes;no;male;yes;500.0;25.0;5.0;23:30;24.0
+2025-04-01 12:18:00;Bioinformatics;yes;no;unknown;no;male;yes;300.0;99.0;7.0;01:30;23.9375
+2025-04-01 12:18:00;Computational Science;no;no;no;no;male;yes;280.0;40.0;6.0;22:00;25.22222222222222
+2025-04-01 12:18:00;Bioinformatics;yes;no;yes;no;female;not willing to say;450.0;80.0;3.0;00:30;23.0
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;male;no;150.0;0.0;8.0;05:00;26.0
+2025-04-01 12:18:00;Bioinformatics;no;unknown;no;yes;male;yes;230.0;69.0;15.0;22:00;23.9375
+2025-04-01 12:18:00;Business Analytics;yes;no;yes;yes;female;yes;250.0;50.0;0.0;00:30;22.0
+2025-04-01 12:18:00;Other;yes;no;unknown;yes;male;not willing to say;118.0;24.0;6.0;00:30;23.25
+2025-04-01 12:18:00;Bioinformatics;no;yes;no;yes;female;yes;375.0;30.0;6.0;23:30;22.0
+2025-04-01 12:18:00;Computer Science;yes;yes;no;yes;female;yes;314.3;40.0;10.0;23:30;22.0
+2025-04-01 12:18:00;Econometrics;yes;no;yes;yes;other;no;460.0;30.0;0.0;00:00;23.0
+2025-04-01 12:18:00;Computer Science;yes;yes;yes;yes;female;yes;200.0;30.0;5.0;22:30;24.25
+2025-04-01 12:18:00;Econometrics;yes;yes;yes;yes;male;yes;300.0;0.0;4.0;23:30;24.0
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;male;yes;400.0;10.0;10.0;00:30;24.0
+2025-04-01 12:18:00;Computer Science;no;no;unknown;yes;female;yes;250.0;65.0;2.0;01:30;24.25
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;340.0;40.0;9.0;01:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;no;female;yes;400.0;35.0;6.0;01:00;23.660714285714285
+2025-04-01 12:18:00;Artificial Intelligence;yes;no;yes;yes;female;no;250.0;100.0;4.0;23:30;24.0
+2025-04-01 12:19:00;Computational Science;yes;no;yes;no;female;yes;100.0;20.0;5.0;00:00;25.22222222222222
+2025-04-01 12:19:00;Computer Science;no;yes;no;yes;male;yes;450.0;40.0;10.0;00:00;28.0
+2025-04-01 12:19:00;Other;yes;no;yes;yes;female;yes;350.0;87.0;1.0;02:00;23.25
+2025-04-01 12:19:00;Econometrics;yes;yes;yes;yes;female;yes;450.0;10.0;3.0;23:00;22.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;450.0;25.0;2.0;02:00;23.660714285714285
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;female;yes;400.0;60.0;7.0;23:00;25.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;400.0;40.0;16.0;22:30;24.0
+2025-04-01 12:19:00;Business Analytics;yes;unknown;no;yes;male;yes;380.0;40.0;12.0;22:30;22.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;550.0;20.0;3.0;01:00;23.660714285714285
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;unknown;yes;male;yes;384.0;41.5;14.0;00:00;24.0
+2025-04-01 12:19:00;Computer Science;no;unknown;yes;yes;male;yes;450.0;30.0;6.0;03:00;24.25
+2025-04-01 12:19:00;Finance;yes;unknown;yes;no;male;yes;250.0;58.0;3.0;01:30;23.0
+2025-04-01 12:19:00;Econometrics;yes;yes;yes;no;male;not willing to say;250.0;23.23;7.0;00:30;21.0
+2025-04-01 12:19:00;Finance;yes;no;yes;no;male;not willing to say;400.0;60.0;10.0;03:00;24.0
+2025-04-01 12:19:00;Business Analytics;yes;yes;no;yes;male;yes;311.0;11.0;4.0;01:00;21.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;300.0;15.0;20.0;23:30;23.0
+2025-04-01 12:19:00;Computer Science;yes;no;yes;yes;male;yes;150.0;30.0;7.0;03:00;24.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;450.0;50.0;8.0;23:00;21.0
+2025-04-01 12:19:00;Computational Science;yes;no;yes;no;female;not willing to say;150.0;98.0;0.0;04:00;24.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;400.0;10.0;8.0;01:00;24.0
+2025-04-01 12:19:00;Computer Science;yes;yes;unknown;yes;male;not willing to say;300.0;42.5;12.0;01:00;25.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;female;yes;350.0;30.0;2.0;22:30;23.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;380.0;23.0;3.0;00:30;23.660714285714285
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;not willing to say;500.0;70.0;2.0;23:00;27.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;male;yes;240.0;65.0;4.0;02:00;23.9375
+2025-04-01 12:19:00;Artificial Intelligence;no;no;yes;no;male;not willing to say;400.0;40.0;3.0;02:00;19.0
+2025-04-01 12:19:00;Econometrics;yes;yes;no;yes;male;not willing to say;220.0;22.0;9.0;02:00;23.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;253.0;55.0;4.0;01:00;22.0
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;male;yes;300.0;25.0;11.0;23:30;22.571428571428573
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;unknown;female;yes;280.0;20.0;7.0;00:00;22.0
+2025-04-01 12:19:00;Computer Science;no;yes;no;no;male;yes;230.0;8.0;6.0;01:30;23.0
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;other;yes;450.0;40.0;4.0;22:00;22.571428571428573
+2025-04-01 12:19:00;Artificial Intelligence;no;no;yes;yes;female;yes;200.0;20.0;8.0;00:00;23.0
+2025-04-01 12:19:00;Artificial Intelligence;no;no;no;no;male;yes;350.0;60.0;6.0;23:00;23.0
+2025-04-01 12:19:00;Finance;yes;no;no;no;male;yes;550.0;65.0;2.0;00:00;23.166666666666668
+2025-04-01 12:19:00;Econometrics;yes;no;no;no;male;yes;425.0;20.0;3.0;00:30;23.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;300.0;15.0;9.0;23:00;22.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;unknown;female;not willing to say;350.0;70.0;4.0;00:30;22.0
+2025-04-01 12:19:00;Artificial Intelligence;no;no;unknown;yes;female;yes;500.0;70.0;1.0;00:30;24.0
+2025-04-01 12:19:00;Business Analytics;yes;yes;yes;yes;male;yes;350.0;15.0;10.0;23:30;21.0
+2025-04-01 12:19:00;Computer Science;yes;no;yes;yes;male;yes;250.0;10.0;2.0;01:30;24.25
+2025-04-01 12:19:00;Econometrics;no;unknown;yes;no;female;not willing to say;200.0;60.0;3.0;23:30;23.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;unknown;yes;yes;female;yes;100.0;77.0;0.0;05:00;23.660714285714285
+2025-04-01 12:19:00;Computer Science;yes;yes;yes;yes;male;not willing to say;314.3;42.5;2.0;03:00;25.0
+2025-04-01 12:19:00;Computer Science;unknown;no;yes;yes;male;no;180.0;58.0;4.0;01:00;24.25
+2025-04-01 12:19:00;Business Analytics;yes;yes;unknown;yes;female;yes;200.0;65.0;4.0;23:30;22.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;unknown;no;male;not willing to say;350.0;47.0;5.0;00:30;24.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;female;yes;220.0;63.0;5.0;22:30;24.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;230.0;80.0;4.0;23:30;21.0
+2025-04-01 12:19:00;Econometrics;yes;yes;no;yes;female;yes;458.0;70.0;1.0;00:30;21.0
+2025-04-01 12:19:00;Econometrics;yes;no;yes;no;male;yes;350.0;69.0;4.0;01:30;23.0
+2025-04-01 12:19:00;Artificial Intelligence;no;no;unknown;yes;male;yes;210.0;50.0;2.0;01:00;22.0
+2025-04-01 12:19:00;Computer Science;no;no;yes;no;male;yes;150.0;85.0;10.0;01:00;24.25
+2025-04-01 12:19:00;Other;yes;no;no;no;male;yes;234.0;75.0;4.0;04:30;23.25
+2025-04-01 12:19:00;Business Analytics;yes;no;yes;yes;male;yes;450.0;100.0;0.0;05:00;24.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;yes;female;yes;400.0;75.0;3.0;02:00;23.660714285714285
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;no;male;not willing to say;300.0;61.0;6.0;00:00;24.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;unknown;yes;yes;male;yes;420.0;20.0;12.0;23:00;23.660714285714285
+2025-04-01 12:19:00;Econometrics;yes;unknown;yes;yes;female;yes;320.0;40.0;0.0;04:00;24.0
+2025-04-01 12:19:00;Computer Science;no;no;yes;yes;female;yes;450.0;5.0;10.0;01:00;24.0
+2025-04-01 12:19:00;Econometrics;yes;yes;no;no;male;not willing to say;150.0;10.0;10.0;01:00;23.0
+2025-04-01 12:19:00;Econometrics;yes;no;yes;yes;female;yes;400.0;2.0;5.0;21:30;26.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;no;yes;male;yes;500.0;20.0;5.0;23:30;23.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;no;yes;male;yes;337.14285714285717;69.0;14.0;02:00;23.660714285714285
+2025-04-01 12:19:00;Computer Science;yes;yes;yes;yes;female;yes;450.0;70.0;2.0;00:30;25.0
+2025-04-01 12:19:00;Bioinformatics;yes;no;yes;no;male;yes;450.0;8.0;5.0;02:30;25.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;yes;female;yes;330.0;40.0;3.0;01:00;21.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;male;yes;387.0;2.0;13.0;01:00;22.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;300.0;20.0;4.0;00:00;22.0
+2025-04-01 12:19:00;Artificial Intelligence;yes;no;yes;no;female;yes;380.0;50.0;8.0;00:00;23.660714285714285
+2025-04-01 12:19:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;500.0;85.0;3.0;00:30;22.0
+2025-04-01 12:19:00;Econometrics;yes;no;no;yes;female;yes;350.0;70.0;1.0;21:30;22.0
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;no;no;male;yes;400.0;33.0;2.0;00:30;33.0
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;yes;yes;female;yes;350.0;20.0;3.0;23:00;25.0
+2025-04-01 12:20:00;Artificial Intelligence;yes;no;yes;no;male;yes;380.0;40.0;2.0;21:30;23.660714285714285
+2025-04-01 12:20:00;Artificial Intelligence;yes;yes;no;yes;male;yes;320.0;15.0;7.0;23:30;21.0
+2025-04-01 12:20:00;Computer Science;no;no;unknown;yes;male;not willing to say;520.0;50.0;10.0;22:00;25.0
+2025-04-01 12:20:00;Other;yes;yes;unknown;yes;female;yes;450.0;69.0;6.0;01:00;23.25
+2025-04-01 12:20:00;Other;yes;yes;yes;yes;male;yes;350.0;99.0;5.0;01:00;23.0
+2025-04-01 12:20:00;Artificial Intelligence;no;yes;yes;yes;male;yes;550.0;40.0;0.0;04:00;23.660714285714285
+2025-04-01 12:20:00;Computer Science;yes;yes;yes;yes;male;not willing to say;460.0;60.0;5.0;01:30;24.25
+2025-04-01 12:21:00;Computer Science;yes;no;no;yes;male;not willing to say;300.0;35.0;5.0;02:00;22.0
+2025-04-01 12:21:00;Computer Science;yes;yes;yes;yes;female;yes;450.0;75.0;5.0;23:30;22.0
+2025-04-01 12:21:00;Computational Science;no;no;yes;yes;male;no;200.0;45.0;1.0;02:00;23.0
