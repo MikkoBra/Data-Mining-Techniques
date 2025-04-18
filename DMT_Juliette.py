@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-from sklearn.model_selection import KFold, cross_val_score, GridSearchCV
+from sklearn.model_selection import train_test_split, GridSearchCV, KFold, cross_val_score
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.pipeline import Pipeline
@@ -10,17 +10,16 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 
-# load dataset
+# dataset
 df = pd.read_csv("num.csv", sep=";")
 df = df.drop(columns=["timestamp"])  # Drop non-numeric column
 
-# features + target
+# features and target
 X = df.drop(columns=["stress"])
 y = df["stress"]
 
-# k-fold cross validation 
-k = 5
-cv = KFold(n_splits=k, shuffle=True, random_state=42)
+# 66/33 train-test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
 
 # linear regression pipeline
 lr_pipeline = Pipeline([
@@ -29,44 +28,51 @@ lr_pipeline = Pipeline([
     ("regressor", LinearRegression())
 ])
 
-# evaluate linear regression
-lr_mae_scores = -cross_val_score(lr_pipeline, X, y, scoring="neg_mean_absolute_error", cv=cv)
-lr_mse_scores = -cross_val_score(lr_pipeline, X, y, scoring="neg_mean_squared_error", cv=cv)
+# cross validation on training set
+cv = KFold(n_splits=5, shuffle=True, random_state=42)
+lr_cv_scores = -cross_val_score(lr_pipeline, X_train, y_train, scoring="neg_mean_absolute_error", cv=cv)
+lr_cv_mean = np.mean(lr_cv_scores)
+lr_ci = 1.96 * np.std(lr_cv_scores) / np.sqrt(len(lr_cv_scores))
 
-# hyperparameter optimization
+# fit on full training set and evaluate on test set
+lr_pipeline.fit(X_train, y_train)
+lr_test_preds = lr_pipeline.predict(X_test)
+lr_test_mae = mean_absolute_error(y_test, lr_test_preds)
+lr_test_mse = mean_squared_error(y_test, lr_test_preds)
+
+# random forest with hyperparameter tuning
 rf_pipeline = Pipeline([
     ("imputer", SimpleImputer(strategy="mean")),
     ("regressor", RandomForestRegressor(random_state=42))
 ])
 
 param_grid = {
-    "regressor__n_estimators": [50, 100, 200],
-    "regressor__max_depth": [None, 10, 20, 30]
+    "regressor__n_estimators": [50, 100],
+    "regressor__max_depth": [None, 10, 20]
 }
 
 grid_search = GridSearchCV(rf_pipeline, param_grid, scoring="neg_mean_absolute_error", cv=cv)
-grid_search.fit(X, y)
+grid_search.fit(X_train, y_train)
 best_rf = grid_search.best_estimator_
 
-# evaluate random forest
-rf_mae_scores = -cross_val_score(best_rf, X, y, scoring="neg_mean_absolute_error", cv=cv)
-rf_mse_scores = -cross_val_score(best_rf, X, y, scoring="neg_mean_squared_error", cv=cv)
+# MAE on training set (cross validated)
+rf_cv_scores = -cross_val_score(best_rf, X_train, y_train, scoring="neg_mean_absolute_error", cv=cv)
+rf_cv_mean = np.mean(rf_cv_scores)
+rf_ci = 1.96 * np.std(rf_cv_scores) / np.sqrt(len(rf_cv_scores))
+
+# evaluate on test set
+rf_test_preds = best_rf.predict(X_test)
+rf_test_mae = mean_absolute_error(y_test, rf_test_preds)
+rf_test_mse = mean_squared_error(y_test, rf_test_preds)
 
 # results
-print("\nLinear Regression:")
-print(f"MAE: {lr_mae_scores.mean():.3f} ± {1.96 * lr_mae_scores.std() / np.sqrt(k):.3f}")
-print(f"MSE: {lr_mse_scores.mean():.3f}")
+print("=== Linear Regression ===")
+print(f"Cross-validated MAE: {lr_cv_mean:.3f} ± {lr_ci:.3f} (95% CI)")
+print(f"Test MAE: {lr_test_mae:.3f}")
+print(f"Test MSE: {lr_test_mse:.3f}")
 
-print("\nRandom Forest (Best Params):", grid_search.best_params_)
-print(f"MAE: {rf_mae_scores.mean():.3f} ± {1.96 * rf_mae_scores.std() / np.sqrt(k):.3f}")
-print(f"MSE: {rf_mse_scores.mean():.3f}")
-
-# plot MAE per fold
-plt.plot(range(1, k+1), lr_mae_scores, label="Linear Regression")
-plt.plot(range(1, k+1), rf_mae_scores, label="Random Forest")
-plt.xlabel("Fold")
-plt.ylabel("MAEr")
-plt.title("MAE per Fold")
-plt.legend()
-plt.grid(True)
-plt.show()
+print("\n=== Random Forest ===")
+print("Best Params:", grid_search.best_params_)
+print(f"Cross-validated MAE: {rf_cv_mean:.3f} ± {rf_ci:.3f} (95% CI)")
+print(f"Test MAE: {rf_test_mae:.3f}")
+print(f"Test MSE: {rf_test_mse:.3f}")
