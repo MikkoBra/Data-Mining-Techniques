@@ -1,243 +1,243 @@
-timestamp;student_estimate;stress;sports;bedtime;age;programme_Artificial Intelligence;programme_Bioinformatics;programme_Business Analytics;programme_Computational Science;programme_Computer Science;programme_Econometrics;programme_Finance;programme_Other;machine_learning_no;machine_learning_unknown;machine_learning_yes;information_retrieval_no;information_retrieval_unknown;information_retrieval_yes;statistics_no;statistics_unknown;statistics_yes;databases_no;databases_unknown;databases_yes;gender_female;gender_male;gender_other;chatgpt_no;chatgpt_not willing to say;chatgpt_yes
-2025-04-01 12:17:00;0.6153846153846154;high;0.0;0.2777777777777778;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4634615384615385;medium;0.08695652173913043;0.3055555555555556;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.23076923076923078;medium;0.17391304347826086;0.3055555555555556;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:17:00;0.5192307692307693;medium;0.2608695652173913;0.2222222222222222;0.08695652173913043;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.8076923076923077;medium;0.34782608695652173;0.2777777777777778;0.21739130434782608;False;True;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.7442307692307693;high;0.34782608695652173;0.5555555555555556;0.17391304347826086;False;False;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;True;False;False;False;False;True;False;True;False
-2025-04-01 12:17:00;0.8076923076923077;medium;0.17391304347826086;0.2777777777777778;0.2608695652173913;False;False;False;False;False;True;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.6153846153846154;low;0.043478260869565216;0.2777777777777778;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;True;False;False;True;False;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:17:00;0.8076923076923077;medium;0.13043478260869565;0.19444444444444445;0.21739130434782608;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.23076923076923078;high;0.043478260869565216;0.3888888888888889;0.21739130434782608;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;True;False
-2025-04-01 12:17:00;0.3269230769230769;high;0.17391304347826086;0.2222222222222222;0.2608695652173913;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.6153846153846154;low;0.17391304347826086;0.2777777777777778;0.30434782608695654;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.5096153846153846;medium;0.34782608695652173;0.2777777777777778;0.2608695652173913;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.8076923076923077;medium;0.17391304347826086;0.1111111111111111;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;True;False;False
-2025-04-01 12:17:00;0.23076923076923078;high;0.08695652173913043;0.1111111111111111;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;True;False;False
-2025-04-01 12:17:00;0.8076923076923077;medium;0.0;0.3888888888888889;0.21739130434782608;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.6153846153846154;medium;0.30434782608695654;0.3333333333333333;1.0;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.6153846153846154;low;0.43478260869565216;0.25;0.30434782608695654;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.23076923076923078;medium;0.0;0.25;0.13043478260869565;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;True;False;False;True;False;True;False;False;False;False;True
-2025-04-01 12:17:00;0.23076923076923078;high;0.0;0.3888888888888889;0.21739130434782608;False;False;True;False;False;False;False;False;False;False;True;True;False;False;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.23076923076923078;low;0.5217391304347826;0.3333333333333333;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.8076923076923077;low;0.2608695652173913;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4230769230769231;medium;0.43478260869565216;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4230769230769231;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4230769230769231;medium;0.17391304347826086;0.25;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.8076923076923077;low;0.5217391304347826;0.3055555555555556;0.27053140096618356;False;False;False;True;False;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:17:00;0.038461538461538464;high;0.2608695652173913;0.3055555555555556;0.21739130434782608;False;False;False;False;False;True;False;False;True;False;False;True;False;False;False;False;True;True;False;False;True;False;False;False;True;False
-2025-04-01 12:17:00;0.9038461538461539;medium;0.30434782608695654;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.19230769230769232;low;0.17391304347826086;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;True;False;False;False;True;True;False;False;False;True;False
-2025-04-01 12:17:00;0.4230769230769231;low;0.43478260869565216;0.2777777777777778;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:17:00;0.4230769230769231;medium;0.08695652173913043;0.2777777777777778;0.30434782608695654;False;False;False;False;False;True;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.7230769230769231;low;0.391304347826087;0.2777777777777778;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4945054945054945;high;0.43478260869565216;0.5555555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;False;True;False;False;True
-2025-04-01 12:17:00;0.038461538461538464;high;0.043478260869565216;0.2777777777777778;0.21739130434782608;False;False;False;False;True;False;False;False;True;False;False;False;True;False;False;False;True;False;False;True;True;False;False;True;False;False
-2025-04-01 12:17:00;0.3269230769230769;low;0.21739130434782608;0.25;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:17:00;0.3269230769230769;high;0.17391304347826086;0.5;0.34782608695652173;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.7826923076923077;low;0.30434782608695654;0.19444444444444445;0.13043478260869565;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.7884615384615384;high;0.0;0.3333333333333333;0.17391304347826086;False;False;False;False;False;False;True;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:17:00;0.4230769230769231;low;0.08695652173913043;0.3055555555555556;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;low;0.13043478260869565;0.3611111111111111;0.13043478260869565;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.9038461538461539;medium;0.34782608695652173;0.3055555555555556;0.17391304347826086;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;medium;0.17391304347826086;0.25;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.34782608695652173;0.2777777777777778;0.08695652173913043;False;False;False;False;False;False;True;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;high;0.30434782608695654;0.25;0.13043478260869565;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;low;0.17391304347826086;0.4444444444444444;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;True;False;False
-2025-04-01 12:18:00;0.23076923076923078;medium;0.30434782608695654;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:18:00;1.0;medium;0.17391304347826086;0.3333333333333333;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;low;0.26863354037267084;0.3888888888888889;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.46153846153846156;high;0.5217391304347826;0.2777777777777778;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;low;0.21739130434782608;0.2777777777777778;0.17391304347826086;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;high;0.08695652173913043;0.2777777777777778;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False
-2025-04-01 12:18:00;0.5192307692307693;low;0.391304347826087;0.3333333333333333;0.391304347826087;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;True;False;False
-2025-04-01 12:18:00;0.7115384615384616;medium;0.13043478260869565;0.5;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;True;False;False;True;False;False;False;False;True;False;False;True
-2025-04-01 12:18:00;0.1346153846153846;medium;0.08695652173913043;0.3888888888888889;0.30434782608695654;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5673076923076923;low;0.43478260869565216;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;False;True;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;low;0.2608695652173913;0.2777777777777778;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;low;0.21739130434782608;0.5;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;low;0.17391304347826086;0.3333333333333333;0.17391304347826086;False;False;True;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.6153846153846154;medium;0.2608695652173913;0.3055555555555556;0.2608695652173913;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;True;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.20576923076923076;low;0.30434782608695654;0.4166666666666667;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;medium;0.2608695652173913;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False
-2025-04-01 12:18:00;0.5192307692307693;medium;0.30434782608695654;0.3333333333333333;0.34782608695652173;False;False;False;True;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.21739130434782608;0.2777777777777778;0.4782608695652174;False;True;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;True;False;False;True;False;True;False;False
-2025-04-01 12:18:00;0.6153846153846154;medium;0.2608695652173913;0.25;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.0;high;0.2608695652173913;0.16666666666666666;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;high;0.08695652173913043;0.5555555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;low;0.0;0.2222222222222222;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;high;0.43478260869565216;0.3055555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.2692307692307692;medium;0.391304347826087;0.2222222222222222;0.17391304347826086;False;False;True;False;False;False;False;False;False;False;True;False;True;False;False;False;True;True;False;False;False;True;False;False;True;False
-2025-04-01 12:18:00;0.3269230769230769;low;0.17391304347826086;0.3888888888888889;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False
-2025-04-01 12:18:00;0.6730769230769231;low;0.34782608695652173;0.3055555555555556;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;medium;0.17391304347826086;0.2222222222222222;0.2608695652173913;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;medium;0.21739130434782608;0.2222222222222222;0.17391304347826086;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;medium;0.43478260869565216;0.2222222222222222;0.21739130434782608;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5769230769230769;medium;0.43478260869565216;0.3888888888888889;0.13043478260869565;False;False;False;False;True;False;False;False;True;False;False;False;False;True;False;True;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4505769230769231;medium;0.17391304347826086;0.2222222222222222;0.21739130434782608;False;False;False;False;True;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;low;0.2608695652173913;0.2222222222222222;0.34782608695652173;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;True;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.6153846153846154;low;0.17391304347826086;0.2777777777777778;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4807692307692308;medium;0.5217391304347826;0.2777777777777778;0.27053140096618356;False;False;False;True;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;low;0.5217391304347826;0.3888888888888889;0.17391304347826086;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;low;0.6521739130434783;0.3611111111111111;0.13043478260869565;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5865384615384616;low;0.30434782608695654;0.2777777777777778;0.13043478260869565;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5961538461538461;medium;0.17391304347826086;0.3333333333333333;0.27053140096618356;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5673076923076923;medium;0.17391304347826086;0.2777777777777778;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.22115384615384615;low;0.43478260869565216;0.3055555555555556;0.0;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.17391304347826086;0.3333333333333333;0.22826086956521738;False;False;False;False;True;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;False;False;True;False;False;True
-2025-04-01 12:18:00;0.29615384615384616;medium;0.30434782608695654;0.25;0.17391304347826086;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4807692307692308;medium;0.0;0.5555555555555556;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True
-2025-04-01 12:18:00;0.7692307692307693;high;0.13043478260869565;0.3333333333333333;0.30434782608695654;False;False;False;True;False;False;False;False;False;False;True;False;True;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.40576923076923077;high;0.0;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.9038461538461539;medium;0.17391304347826086;0.3055555555555556;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:18:00;0.23076923076923078;low;0.0;0.3611111111111111;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;high;0.13043478260869565;1.0;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.6538461538461539;high;0.34782608695652173;0.25;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False
-2025-04-01 12:18:00;0.23076923076923078;low;0.34782608695652173;0.3333333333333333;0.17391304347826086;False;True;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;high;0.30434782608695654;0.3611111111111111;0.08695652173913043;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:18:00;0.40192307692307694;medium;0.2608695652173913;0.25;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.6153846153846154;medium;0.13043478260869565;0.16666666666666666;0.15527950310559013;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False
-2025-04-01 12:18:00;0.5192307692307693;low;0.8695652173913043;0.2222222222222222;0.27053140096618356;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;low;0.30434782608695654;0.2222222222222222;0.13043478260869565;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;medium;0.21739130434782608;0.3055555555555556;0.27053140096618356;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;True;False
-2025-04-01 12:18:00;0.4945054945054945;medium;0.43478260869565216;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;medium;0.17391304347826086;0.25;0.30434782608695654;False;True;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;1.0;medium;0.0;0.0;0.17391304347826086;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;True;False
-2025-04-01 12:18:00;1.0;low;0.21739130434782608;0.25;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.1346153846153846;low;0.17391304347826086;0.2777777777777778;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.2608695652173913;0.3888888888888889;0.21739130434782608;False;False;False;False;True;False;False;False;False;False;True;True;False;False;False;True;False;False;False;True;False;False;True;False;False;True
-2025-04-01 12:18:00;0.6634615384615384;low;0.13043478260869565;0.2222222222222222;0.043478260869565216;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.39807692307692305;low;1.0;0.19444444444444445;0.043478260869565216;False;False;True;False;False;False;False;False;False;False;True;True;False;False;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;high;0.0;0.2222222222222222;0.21739130434782608;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;True;False;False
-2025-04-01 12:18:00;0.4230769230769231;low;0.30434782608695654;0.3055555555555556;0.13043478260869565;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.2692307692307692;high;0.17391304347826086;0.5;0.2608695652173913;False;False;False;False;True;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.30434782608695654;0.3333333333333333;0.6521739130434783;False;False;False;True;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;high;0.43478260869565216;0.2777777777777778;0.2608695652173913;False;True;False;False;False;False;False;False;False;False;True;False;True;False;False;True;False;False;True;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.775;medium;0.13043478260869565;0.4444444444444444;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;True;False;False;False;True;False;True;False;True;False;False
-2025-04-01 12:18:00;0.4230769230769231;high;0.17391304347826086;0.2222222222222222;0.2608695652173913;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;medium;0.043478260869565216;0.25;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.3076923076923077;high;0.08695652173913043;0.4444444444444444;0.21467391304347827;False;True;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.5326923076923077;low;0.21739130434782608;0.4444444444444444;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;medium;0.08695652173913043;0.3611111111111111;0.2608695652173913;False;False;False;False;False;False;True;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4173076923076923;high;0.2608695652173913;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;high;0.2608695652173913;0.7222222222222222;0.17391304347826086;False;False;False;False;True;False;False;False;True;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False
-2025-04-01 12:18:00;0.4230769230769231;low;0.34782608695652173;0.3611111111111111;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.7692307692307693;low;0.34782608695652173;0.2222222222222222;0.30434782608695654;False;False;True;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5192307692307693;low;0.34782608695652173;0.25;0.17391304347826086;False;False;False;False;False;False;True;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;medium;0.2608695652173913;0.3055555555555556;0.21739130434782608;False;False;False;True;False;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.8076923076923077;high;0.13043478260869565;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False
-2025-04-01 12:18:00;0.55;medium;0.2608695652173913;0.3055555555555556;0.08695652173913043;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.34782608695652173;0.3055555555555556;0.17391304347826086;True;False;False;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;medium;0.17391304347826086;0.3888888888888889;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.08269230769230769;high;0.17391304347826086;0.5;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;high;0.13043478260869565;0.4444444444444444;0.30434782608695654;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;medium;0.2673913043478261;0.3333333333333333;0.22826086956521738;False;False;False;False;True;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.08653846153846154;medium;0.17391304347826086;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;medium;0.13043478260869565;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.573076923076923;medium;0.08695652173913043;0.5;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.23076923076923078;low;0.21739130434782608;0.25;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False
-2025-04-01 12:18:00;0.6153846153846154;medium;0.43478260869565216;0.2777777777777778;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5961538461538461;medium;0.13043478260869565;0.5555555555555556;0.21739130434782608;False;False;False;False;True;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:18:00;0.8076923076923077;low;0.21739130434782608;0.25;0.21739130434782608;False;True;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;high;0.30434782608695654;0.3611111111111111;0.21467391304347827;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;True;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.38461538461538464;medium;0.2608695652173913;0.16666666666666666;0.27053140096618356;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:18:00;0.7115384615384616;high;0.13043478260869565;0.3055555555555556;0.17391304347826086;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;True;False
-2025-04-01 12:18:00;0.1346153846153846;low;0.34782608695652173;0.5555555555555556;0.30434782608695654;False;False;False;False;True;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;True;False;False
-2025-04-01 12:18:00;0.28846153846153844;high;0.6521739130434783;0.16666666666666666;0.21467391304347827;False;True;False;False;False;False;False;False;True;False;False;False;True;False;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;medium;0.0;0.3055555555555556;0.13043478260869565;False;False;True;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.07307692307692308;low;0.2608695652173913;0.3055555555555556;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;True;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:18:00;0.5673076923076923;low;0.2608695652173913;0.25;0.13043478260869565;False;True;False;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4505769230769231;medium;0.43478260869565216;0.25;0.13043478260869565;False;False;False;False;True;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.7307692307692307;low;0.0;0.2777777777777778;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;False;True;True;False;False
-2025-04-01 12:18:00;0.23076923076923078;low;0.21739130434782608;0.19444444444444445;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.4230769230769231;low;0.17391304347826086;0.25;0.21739130434782608;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.6153846153846154;low;0.43478260869565216;0.3055555555555556;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;medium;0.08695652173913043;0.3611111111111111;0.22826086956521738;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:18:00;0.5;medium;0.391304347826087;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.6153846153846154;medium;0.2608695652173913;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:18:00;0.3269230769230769;high;0.17391304347826086;0.25;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;True;False;False
-2025-04-01 12:19:00;0.038461538461538464;low;0.21739130434782608;0.2777777777777778;0.27053140096618356;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;medium;0.43478260869565216;0.2777777777777778;0.391304347826087;False;False;False;False;True;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;high;0.043478260869565216;0.3888888888888889;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;low;0.13043478260869565;0.2222222222222222;0.13043478260869565;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;low;0.08695652173913043;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.6153846153846154;medium;0.30434782608695654;0.2222222222222222;0.2608695652173913;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.6153846153846154;medium;0.6956521739130435;0.19444444444444445;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.5769230769230769;medium;0.5217391304347826;0.19444444444444445;0.13043478260869565;False;False;True;False;False;False;False;False;False;False;True;False;True;False;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.9038461538461539;low;0.13043478260869565;0.3333333333333333;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5846153846153846;medium;0.6086956521739131;0.2777777777777778;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;low;0.2608695652173913;0.4444444444444444;0.22826086956521738;False;False;False;False;True;False;False;False;True;False;False;False;True;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.3269230769230769;medium;0.13043478260869565;0.3611111111111111;0.17391304347826086;False;False;False;False;False;False;True;False;False;False;True;False;True;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.3269230769230769;low;0.30434782608695654;0.3055555555555556;0.08695652173913043;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.6153846153846154;medium;0.43478260869565216;0.4444444444444444;0.21739130434782608;False;False;False;False;False;False;True;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.4442307692307692;low;0.17391304347826086;0.3333333333333333;0.08695652173913043;False;False;True;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.4230769230769231;low;0.8695652173913043;0.25;0.17391304347826086;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.1346153846153846;low;0.30434782608695654;0.4444444444444444;0.21739130434782608;False;False;False;False;True;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;medium;0.34782608695652173;0.2222222222222222;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.1346153846153846;high;0.0;0.5;0.21739130434782608;False;False;False;True;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;True;False
-2025-04-01 12:19:00;0.6153846153846154;low;0.34782608695652173;0.3333333333333333;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:19:00;0.4230769230769231;medium;0.5217391304347826;0.3333333333333333;0.2608695652173913;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:19:00;0.5192307692307693;low;0.08695652173913043;0.19444444444444445;0.17391304347826086;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5769230769230769;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.8076923076923077;high;0.08695652173913043;0.2222222222222222;0.34782608695652173;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:19:00;0.3076923076923077;medium;0.17391304347826086;0.3888888888888889;0.21467391304347827;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.6153846153846154;medium;0.13043478260869565;0.3888888888888889;0.0;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.2692307692307692;low;0.391304347826087;0.3888888888888889;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:19:00;0.3326923076923077;medium;0.17391304347826086;0.3333333333333333;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.4230769230769231;low;0.4782608695652174;0.25;0.15527950310559013;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.38461538461538464;low;0.30434782608695654;0.2777777777777778;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;True;False;True;False;False;False;False;True
-2025-04-01 12:19:00;0.28846153846153844;low;0.2608695652173913;0.3611111111111111;0.17391304347826086;False;False;False;False;True;False;False;False;True;False;False;False;False;True;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;medium;0.17391304347826086;0.16666666666666666;0.15527950310559013;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True
-2025-04-01 12:19:00;0.23076923076923078;low;0.34782608695652173;0.2777777777777778;0.17391304347826086;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;medium;0.2608695652173913;0.2222222222222222;0.17391304347826086;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.9038461538461539;medium;0.08695652173913043;0.2777777777777778;0.18115942028985513;False;False;False;False;False;False;True;False;False;False;True;True;False;False;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.6634615384615384;low;0.13043478260869565;0.3055555555555556;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;True;False;False;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.4230769230769231;low;0.391304347826087;0.2222222222222222;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;high;0.17391304347826086;0.3055555555555556;0.13043478260869565;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;True;False;True;False;False;False;True;False
-2025-04-01 12:19:00;0.8076923076923077;high;0.043478260869565216;0.3055555555555556;0.21739130434782608;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;low;0.43478260869565216;0.25;0.08695652173913043;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.3269230769230769;low;0.08695652173913043;0.3611111111111111;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.23076923076923078;medium;0.13043478260869565;0.25;0.17391304347826086;False;False;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;True;False;False;True;False;False;False;True;False
-2025-04-01 12:19:00;0.038461538461538464;high;0.0;0.5555555555555556;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.4505769230769231;medium;0.08695652173913043;0.4444444444444444;0.2608695652173913;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:19:00;0.19230769230769232;medium;0.17391304347826086;0.3333333333333333;0.22826086956521738;False;False;False;False;True;False;False;False;False;True;False;True;False;False;False;False;True;False;False;True;False;True;False;True;False;False
-2025-04-01 12:19:00;0.23076923076923078;medium;0.17391304347826086;0.25;0.13043478260869565;False;False;True;False;False;False;False;False;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;medium;0.21739130434782608;0.3055555555555556;0.21739130434782608;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;True;False;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.2692307692307692;medium;0.21739130434782608;0.19444444444444445;0.21739130434782608;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:19:00;0.28846153846153844;high;0.17391304347826086;0.25;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7269230769230769;high;0.043478260869565216;0.3055555555555556;0.08695652173913043;False;False;False;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;high;0.17391304347826086;0.3611111111111111;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.25;medium;0.08695652173913043;0.3333333333333333;0.13043478260869565;True;False;False;False;False;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.1346153846153846;high;0.43478260869565216;0.3333333333333333;0.22826086956521738;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.29615384615384616;high;0.17391304347826086;0.5277777777777778;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;True;False;False;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;high;0.0;0.5555555555555556;0.21739130434782608;False;False;True;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.6153846153846154;high;0.13043478260869565;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.4230769230769231;medium;0.2608695652173913;0.2777777777777778;0.21739130434782608;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.6538461538461539;low;0.5217391304347826;0.2222222222222222;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;True;False;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.46153846153846156;medium;0.0;0.5;0.21739130434782608;False;False;False;False;False;True;False;False;False;False;True;False;True;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;low;0.43478260869565216;0.3333333333333333;0.21739130434782608;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.1346153846153846;low;0.43478260869565216;0.3333333333333333;0.17391304347826086;False;False;False;False;False;True;False;False;False;False;True;False;False;True;True;False;False;True;False;False;False;True;False;False;True;False
-2025-04-01 12:19:00;0.6153846153846154;low;0.21739130434782608;0.1388888888888889;0.30434782608695654;False;False;False;False;False;True;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.8076923076923077;low;0.21739130434782608;0.25;0.17391304347826086;False;True;False;False;False;False;False;False;False;False;True;True;False;False;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.4945054945054945;high;0.6086956521739131;0.3888888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;high;0.08695652173913043;0.3055555555555556;0.2608695652173913;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.7115384615384616;low;0.21739130434782608;0.4166666666666667;0.2608695652173913;False;True;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:19:00;0.4807692307692308;medium;0.13043478260869565;0.3333333333333333;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5903846153846154;low;0.5652173913043478;0.3333333333333333;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:19:00;0.4230769230769231;low;0.17391304347826086;0.2777777777777778;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5769230769230769;medium;0.34782608695652173;0.2777777777777778;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True
-2025-04-01 12:19:00;0.8076923076923077;high;0.13043478260869565;0.3055555555555556;0.13043478260869565;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:19:00;0.5192307692307693;high;0.043478260869565216;0.1388888888888889;0.13043478260869565;False;False;False;False;False;True;False;False;False;False;True;True;False;False;True;False;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:20:00;0.6153846153846154;low;0.08695652173913043;0.3055555555555556;0.6086956521739131;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;True;False;False;False;True;False;False;False;True
-2025-04-01 12:20:00;0.5192307692307693;low;0.13043478260869565;0.2222222222222222;0.2608695652173913;True;False;False;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:20:00;0.5769230769230769;medium;0.08695652173913043;0.1388888888888889;0.20263975155279498;True;False;False;False;False;False;False;False;False;False;True;True;False;False;False;False;True;True;False;False;False;True;False;False;False;True
-2025-04-01 12:20:00;0.46153846153846156;low;0.30434782608695654;0.25;0.08695652173913043;True;False;False;False;False;False;False;False;False;False;True;False;False;True;True;False;False;False;False;True;False;True;False;False;False;True
-2025-04-01 12:20:00;0.8461538461538461;medium;0.43478260869565216;0.16666666666666666;0.2608695652173913;False;False;False;False;True;False;False;False;True;False;False;True;False;False;False;True;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:20:00;0.7115384615384616;high;0.2608695652173913;0.3333333333333333;0.18478260869565216;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True;True;False;False;False;False;True
-2025-04-01 12:20:00;0.5192307692307693;high;0.21739130434782608;0.3333333333333333;0.17391304347826086;False;False;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:20:00;0.9038461538461539;medium;0.0;0.5;0.20263975155279498;True;False;False;False;False;False;False;False;True;False;False;False;False;True;False;False;True;False;False;True;False;True;False;False;False;True
-2025-04-01 12:20:00;0.7307692307692307;medium;0.21739130434782608;0.3611111111111111;0.22826086956521738;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;False;True;False;False;True;False
-2025-04-01 12:21:00;0.4230769230769231;medium;0.21739130434782608;0.3888888888888889;0.13043478260869565;False;False;False;False;True;False;False;False;False;False;True;True;False;False;True;False;False;False;False;True;False;True;False;False;True;False
-2025-04-01 12:21:00;0.7115384615384616;high;0.21739130434782608;0.25;0.13043478260869565;False;False;False;False;True;False;False;False;False;False;True;False;False;True;False;False;True;False;False;True;True;False;False;False;False;True
-2025-04-01 12:21:00;0.23076923076923078;medium;0.043478260869565216;0.3888888888888889;0.17391304347826086;False;False;False;True;False;False;False;False;True;False;False;True;False;False;False;False;True;False;False;True;False;True;False;True;False;False
+student_estimate;stress;sports;bedtime;age;programme_Artificial Intelligence;programme_Bioinformatics;programme_Business Analytics;programme_Computational Science;programme_Computer Science;programme_Econometrics;programme_Finance;programme_Other;machine_learning_no;machine_learning_unknown;machine_learning_yes;information_retrieval_no;information_retrieval_unknown;information_retrieval_yes;statistics_no;statistics_unknown;statistics_yes;databases_no;databases_unknown;databases_yes;gender_female;gender_male;gender_other;chatgpt_no;chatgpt_not willing to say;chatgpt_yes
+0.6153846153846154;high;0.0;0.2777777777777778;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.4634615384615385;medium;0.08695652173913043;0.3055555555555556;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.23076923076923078;medium;0.17391304347826086;0.3055555555555556;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.5192307692307693;medium;0.2608695652173913;0.2222222222222222;0.08695652173913043;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.8076923076923077;medium;0.34782608695652173;0.2777777777777778;0.21739130434782608;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.7442307692307693;high;0.34782608695652173;0.5555555555555556;0.17391304347826086;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;1;0;1;0
+0.8076923076923077;medium;0.17391304347826086;0.2777777777777778;0.2608695652173913;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.6153846153846154;low;0.043478260869565216;0.2777777777777778;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;1;0;0;1;0;0;0;0;1;0;1;0;0;1;0
+0.8076923076923077;medium;0.13043478260869565;0.19444444444444445;0.21739130434782608;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.23076923076923078;high;0.043478260869565216;0.3888888888888889;0.21739130434782608;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;1;0
+0.3269230769230769;high;0.17391304347826086;0.2222222222222222;0.2608695652173913;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.6153846153846154;low;0.17391304347826086;0.2777777777777778;0.30434782608695654;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;1;0;0;0;1
+0.5096153846153846;medium;0.34782608695652173;0.2777777777777778;0.2608695652173913;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;medium;0.17391304347826086;0.1111111111111111;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;1;0;0
+0.23076923076923078;high;0.08695652173913043;0.1111111111111111;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;1;0;0
+0.8076923076923077;medium;0.0;0.3888888888888889;0.21739130434782608;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.6153846153846154;medium;0.30434782608695654;0.3333333333333333;1.0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.6153846153846154;low;0.43478260869565216;0.25;0.30434782608695654;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.23076923076923078;medium;0.0;0.25;0.13043478260869565;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;1;0;1;0;0;0;0;1
+0.23076923076923078;high;0.0;0.3888888888888889;0.21739130434782608;0;0;1;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;1;1;0;0;0;0;1
+0.23076923076923078;low;0.5217391304347826;0.3333333333333333;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;low;0.2608695652173913;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;medium;0.43478260869565216;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.4230769230769231;medium;0.17391304347826086;0.25;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.8076923076923077;low;0.5217391304347826;0.3055555555555556;0.27053140096618356;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.038461538461538464;high;0.2608695652173913;0.3055555555555556;0.21739130434782608;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;1;1;0;0;1;0;0;0;1;0
+0.9038461538461539;medium;0.30434782608695654;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.19230769230769232;low;0.17391304347826086;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;1;1;0;0;0;1;0
+0.4230769230769231;low;0.43478260869565216;0.2777777777777778;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.4230769230769231;medium;0.08695652173913043;0.2777777777777778;0.30434782608695654;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.7230769230769231;low;0.391304347826087;0.2777777777777778;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.49450549450549464;high;0.43478260869565216;0.5555555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;0;1;0;0;1
+0.038461538461538464;high;0.043478260869565216;0.2777777777777778;0.21739130434782608;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;0;1;1;0;0;1;0;0
+0.3269230769230769;low;0.21739130434782608;0.25;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.3269230769230769;high;0.17391304347826086;0.5;0.34782608695652173;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.7826923076923077;low;0.30434782608695654;0.19444444444444445;0.13043478260869565;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.7884615384615384;high;0.0;0.3333333333333333;0.17391304347826086;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.4230769230769231;low;0.08695652173913043;0.3055555555555556;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.7115384615384616;low;0.13043478260869565;0.3611111111111111;0.13043478260869565;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1;1;0;0;0;0;1
+0.9038461538461539;medium;0.34782608695652173;0.3055555555555556;0.17391304347826086;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;medium;0.17391304347826086;0.25;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.34782608695652173;0.2777777777777778;0.08695652173913043;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.7115384615384616;high;0.30434782608695654;0.25;0.13043478260869565;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;low;0.17391304347826086;0.4444444444444444;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;1;0;0
+0.23076923076923078;medium;0.30434782608695654;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0;0;1;0
+1.0;medium;0.17391304347826086;0.3333333333333333;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.23076923076923078;low;0.26863354037267084;0.3888888888888889;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.46153846153846156;high;0.5217391304347826;0.2777777777777778;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.23076923076923078;low;0.21739130434782608;0.2777777777777778;0.17391304347826086;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;high;0.08695652173913043;0.2777777777777778;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0
+0.5192307692307693;low;0.391304347826087;0.3333333333333333;0.391304347826087;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;1;0;0
+0.7115384615384616;medium;0.13043478260869565;0.5;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1
+0.1346153846153846;medium;0.08695652173913043;0.3888888888888889;0.30434782608695654;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5673076923076923;low;0.43478260869565216;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;0;1;0;0;1
+0.23076923076923078;low;0.2608695652173913;0.2777777777777778;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.5192307692307693;low;0.21739130434782608;0.5;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;low;0.17391304347826086;0.3333333333333333;0.17391304347826086;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.6153846153846154;medium;0.2608695652173913;0.3055555555555556;0.2608695652173913;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;1;0;0;1;0;0;0;1
+0.20576923076923076;low;0.30434782608695654;0.4166666666666667;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;medium;0.2608695652173913;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0
+0.5192307692307693;medium;0.30434782608695654;0.3333333333333333;0.34782608695652173;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.4230769230769231;low;0.21739130434782608;0.2777777777777778;0.4782608695652174;0;1;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;1;0;0;1;0;1;0;0
+0.6153846153846154;medium;0.2608695652173913;0.25;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.0;high;0.2608695652173913;0.16666666666666666;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.8076923076923077;high;0.08695652173913043;0.5555555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;0;1
+0.7115384615384616;low;0.0;0.2222222222222222;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1
+0.7115384615384616;high;0.43478260869565216;0.3055555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.2692307692307692;medium;0.391304347826087;0.2222222222222222;0.17391304347826086;0;0;1;0;0;0;0;0;0;0;1;0;1;0;0;0;1;1;0;0;0;1;0;0;1;0
+0.3269230769230769;low;0.17391304347826086;0.3888888888888889;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0
+0.6730769230769231;low;0.34782608695652173;0.3055555555555556;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;medium;0.17391304347826086;0.2222222222222222;0.2608695652173913;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.3269230769230769;medium;0.21739130434782608;0.2222222222222222;0.17391304347826086;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.5192307692307693;medium;0.43478260869565216;0.2222222222222222;0.21739130434782608;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.5769230769230769;medium;0.43478260869565216;0.3888888888888889;0.13043478260869565;0;0;0;0;1;0;0;0;1;0;0;0;0;1;0;1;0;1;0;0;0;1;0;0;0;1
+0.4505769230769231;medium;0.17391304347826086;0.2222222222222222;0.21739130434782608;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;low;0.2608695652173913;0.2222222222222222;0.34782608695652173;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;1;0;0;1;0;0;0;1
+0.6153846153846154;low;0.17391304347826086;0.2777777777777778;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.4807692307692308;medium;0.5217391304347826;0.2777777777777778;0.27053140096618356;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;low;0.5217391304347826;0.3888888888888889;0.17391304347826086;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.23076923076923078;low;0.6521739130434783;0.3611111111111111;0.13043478260869565;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;1;0;0;0;1;0;0;0;1
+0.3269230769230769;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.5865384615384616;low;0.30434782608695654;0.2777777777777778;0.13043478260869565;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.5961538461538461;medium;0.17391304347826086;0.3333333333333333;0.27053140096618356;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.5673076923076923;medium;0.17391304347826086;0.2777777777777778;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.22115384615384615;low;0.43478260869565216;0.3055555555555556;0.0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.17391304347826086;0.3333333333333333;0.22826086956521738;0;0;0;0;1;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;0;1
+0.29615384615384616;medium;0.30434782608695654;0.25;0.17391304347826086;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;0;1
+0.4807692307692308;medium;0.0;0.5555555555555556;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1
+0.7692307692307693;high;0.13043478260869565;0.3333333333333333;0.30434782608695654;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.40576923076923077;high;0.0;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.9038461538461539;medium;0.17391304347826086;0.3055555555555556;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;1;0
+0.23076923076923078;low;0.0;0.3611111111111111;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.8076923076923077;high;0.13043478260869565;1.0;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.6538461538461539;high;0.34782608695652173;0.25;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0
+0.23076923076923078;low;0.34782608695652173;0.3333333333333333;0.17391304347826086;0;1;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1
+0.5192307692307693;high;0.30434782608695654;0.3611111111111111;0.08695652173913043;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.40192307692307694;medium;0.2608695652173913;0.25;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1
+0.6153846153846154;medium;0.13043478260869565;0.16666666666666666;0.15527950310559013;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0
+0.5192307692307693;low;0.8695652173913043;0.2222222222222222;0.27053140096618356;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.3269230769230769;low;0.30434782608695654;0.2222222222222222;0.13043478260869565;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.3269230769230769;medium;0.21739130434782608;0.3055555555555556;0.27053140096618356;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;1;0
+0.49450549450549464;medium;0.43478260869565216;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1;0;0;1
+0.3269230769230769;medium;0.17391304347826086;0.25;0.30434782608695654;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1
+1.0;medium;0.0;0.0;0.17391304347826086;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;1;0
+1.0;low;0.21739130434782608;0.25;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.1346153846153846;low;0.17391304347826086;0.2777777777777778;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1
+0.4230769230769231;low;0.2608695652173913;0.3888888888888889;0.21739130434782608;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;1;0;0;1;0;0;1
+0.6634615384615384;low;0.13043478260869565;0.2222222222222222;0.043478260869565216;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.39807692307692305;low;1.0;0.19444444444444445;0.043478260869565216;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;1;0;1;0;0;0;1
+0.4230769230769231;high;0.0;0.2222222222222222;0.21739130434782608;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;1;0;0
+0.4230769230769231;low;0.30434782608695654;0.3055555555555556;0.13043478260869565;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;1;0;1;0;0;0;1
+0.2692307692307692;high;0.17391304347826086;0.5;0.2608695652173913;0;0;0;0;1;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;0;1
+0.4230769230769231;low;0.30434782608695654;0.3333333333333333;0.6521739130434783;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;high;0.43478260869565216;0.2777777777777778;0.2608695652173913;0;1;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;1;0;0;1;0;0;0;1
+0.775;medium;0.13043478260869565;0.4444444444444444;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1;0;1;0;1;0;0
+0.4230769230769231;high;0.17391304347826086;0.2222222222222222;0.2608695652173913;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.7115384615384616;medium;0.043478260869565216;0.25;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;0;0;1;0;0;0;0;1
+0.3076923076923077;high;0.08695652173913043;0.4444444444444444;0.21467391304347827;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.5326923076923077;low;0.21739130434782608;0.4444444444444444;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.8076923076923077;medium;0.08695652173913043;0.3611111111111111;0.2608695652173913;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.4173076923076923;high;0.2608695652173913;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.8076923076923077;high;0.2608695652173913;0.7222222222222222;0.17391304347826086;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0
+0.4230769230769231;low;0.34782608695652173;0.3611111111111111;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.7692307692307693;low;0.34782608695652173;0.2222222222222222;0.30434782608695654;0;0;1;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;low;0.34782608695652173;0.25;0.17391304347826086;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.4230769230769231;medium;0.2608695652173913;0.3055555555555556;0.21739130434782608;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.8076923076923077;high;0.13043478260869565;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0
+0.55;medium;0.2608695652173913;0.3055555555555556;0.08695652173913043;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.34782608695652173;0.3055555555555556;0.17391304347826086;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;medium;0.17391304347826086;0.3888888888888889;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.08269230769230769;high;0.17391304347826086;0.5;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;0;0;1;0;1;0;0;0;1
+0.4230769230769231;high;0.13043478260869565;0.4444444444444444;0.30434782608695654;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;1;0;0;0;1
+0.7115384615384616;medium;0.2673913043478261;0.3333333333333333;0.22826086956521738;0;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.08653846153846154;medium;0.17391304347826086;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.23076923076923078;medium;0.13043478260869565;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.573076923076923;medium;0.08695652173913043;0.5;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;1;0;1;0;0;0;1
+0.23076923076923078;low;0.21739130434782608;0.25;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0
+0.6153846153846154;medium;0.43478260869565216;0.2777777777777778;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.5961538461538461;medium;0.13043478260869565;0.5555555555555556;0.21739130434782608;0;0;0;0;1;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;1;0
+0.8076923076923077;low;0.21739130434782608;0.25;0.21739130434782608;0;1;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1
+0.4230769230769231;high;0.30434782608695654;0.3611111111111111;0.21467391304347827;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;1;0;0;0;1;0;0;0;1
+0.38461538461538464;medium;0.2608695652173913;0.16666666666666666;0.27053140096618356;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1
+0.7115384615384616;high;0.13043478260869565;0.3055555555555556;0.17391304347826086;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;1;0
+0.1346153846153846;low;0.34782608695652173;0.5555555555555556;0.30434782608695654;0;0;0;0;1;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0
+0.28846153846153844;high;0.6521739130434783;0.16666666666666666;0.21467391304347827;0;1;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;0;1;0;1;0;0;0;1
+0.3269230769230769;medium;0.0;0.3055555555555556;0.13043478260869565;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.07307692307692308;low;0.2608695652173913;0.3055555555555556;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;1;0;0;0;1;0;1;0;0;1;0
+0.5673076923076923;low;0.2608695652173913;0.25;0.13043478260869565;0;1;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.4505769230769231;medium;0.43478260869565216;0.25;0.13043478260869565;0;0;0;0;1;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.7307692307692307;low;0.0;0.2777777777777778;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;0;1;1;0;0
+0.23076923076923078;low;0.21739130434782608;0.19444444444444445;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.4230769230769231;low;0.17391304347826086;0.25;0.21739130434782608;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.6153846153846154;low;0.43478260869565216;0.3055555555555556;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.3269230769230769;medium;0.08695652173913043;0.3611111111111111;0.22826086956521738;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;1
+0.5;medium;0.391304347826087;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.6153846153846154;medium;0.2608695652173913;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.3269230769230769;high;0.17391304347826086;0.25;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;1;0;0
+0.038461538461538464;low;0.21739130434782608;0.2777777777777778;0.27053140096618356;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.7115384615384616;medium;0.43478260869565216;0.2777777777777778;0.391304347826087;0;0;0;0;1;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.5192307692307693;high;0.043478260869565216;0.3888888888888889;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.7115384615384616;low;0.13043478260869565;0.2222222222222222;0.13043478260869565;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.7115384615384616;low;0.08695652173913043;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.6153846153846154;medium;0.30434782608695654;0.2222222222222222;0.2608695652173913;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.6153846153846154;medium;0.6956521739130435;0.19444444444444445;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.5769230769230769;medium;0.5217391304347826;0.19444444444444445;0.13043478260869565;0;0;1;0;0;0;0;0;0;0;1;0;1;0;1;0;0;0;0;1;0;1;0;0;0;1
+0.9038461538461539;low;0.13043478260869565;0.3333333333333333;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5846153846153846;medium;0.6086956521739131;0.2777777777777778;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;1;0;0;0;1
+0.7115384615384616;low;0.2608695652173913;0.4444444444444444;0.22826086956521738;0;0;0;0;1;0;0;0;1;0;0;0;1;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.3269230769230769;medium;0.13043478260869565;0.3611111111111111;0.17391304347826086;0;0;0;0;0;0;1;0;0;0;1;0;1;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.3269230769230769;low;0.30434782608695654;0.3055555555555556;0.08695652173913043;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;1;0;0;0;1;0;0;1;0
+0.6153846153846154;medium;0.43478260869565216;0.4444444444444444;0.21739130434782608;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;1;0
+0.4442307692307692;low;0.17391304347826086;0.3333333333333333;0.08695652173913043;0;0;1;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.8695652173913043;0.25;0.17391304347826086;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.1346153846153846;low;0.30434782608695654;0.4444444444444444;0.21739130434782608;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.7115384615384616;medium;0.34782608695652173;0.2222222222222222;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.1346153846153846;high;0.0;0.5;0.21739130434782608;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;1;0
+0.6153846153846154;low;0.34782608695652173;0.3333333333333333;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.4230769230769231;medium;0.5217391304347826;0.3333333333333333;0.2608695652173913;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;0;1;0;0;1;0
+0.5192307692307693;low;0.08695652173913043;0.19444444444444445;0.17391304347826086;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.5769230769230769;low;0.13043478260869565;0.3055555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.8076923076923077;high;0.08695652173913043;0.2222222222222222;0.34782608695652173;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.3076923076923077;medium;0.17391304347826086;0.3888888888888889;0.21467391304347827;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.6153846153846154;medium;0.13043478260869565;0.3888888888888889;0.0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;1;0
+0.2692307692307692;low;0.391304347826087;0.3888888888888889;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;1;0
+0.3326923076923077;medium;0.17391304347826086;0.3333333333333333;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.4230769230769231;low;0.4782608695652174;0.25;0.15527950310559013;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.38461538461538464;low;0.30434782608695654;0.2777777777777778;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0;0;0;1
+0.28846153846153844;low;0.2608695652173913;0.3611111111111111;0.17391304347826086;0;0;0;0;1;0;0;0;1;0;0;0;0;1;1;0;0;1;0;0;0;1;0;0;0;1
+0.7115384615384616;medium;0.17391304347826086;0.16666666666666666;0.15527950310559013;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1
+0.23076923076923078;low;0.34782608695652173;0.2777777777777778;0.17391304347826086;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;medium;0.2608695652173913;0.2222222222222222;0.17391304347826086;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1
+0.9038461538461539;medium;0.08695652173913043;0.2777777777777778;0.18115942028985513;0;0;0;0;0;0;1;0;0;0;1;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1
+0.6634615384615384;low;0.13043478260869565;0.3055555555555556;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1
+0.4230769230769231;low;0.391304347826087;0.2222222222222222;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.5192307692307693;high;0.17391304347826086;0.3055555555555556;0.13043478260869565;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;1;0;1;0;0;0;1;0
+0.8076923076923077;high;0.043478260869565216;0.3055555555555556;0.21739130434782608;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;1
+0.5192307692307693;low;0.43478260869565216;0.25;0.08695652173913043;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.3269230769230769;low;0.08695652173913043;0.3611111111111111;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.23076923076923078;medium;0.13043478260869565;0.25;0.17391304347826086;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;1;0;0;1;0;0;0;1;0
+0.038461538461538464;high;0.0;0.5555555555555556;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.4505769230769231;medium;0.08695652173913043;0.4444444444444444;0.2608695652173913;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.19230769230769232;medium;0.17391304347826086;0.3333333333333333;0.22826086956521738;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;0;1;0;0;1;0;1;0;1;0;0
+0.23076923076923078;medium;0.17391304347826086;0.25;0.13043478260869565;0;0;1;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1
+0.5192307692307693;medium;0.21739130434782608;0.3055555555555556;0.21739130434782608;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;1;0;1;0;0;0;1;0;0;1;0
+0.2692307692307692;medium;0.21739130434782608;0.19444444444444445;0.21739130434782608;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.28846153846153844;high;0.17391304347826086;0.25;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.7269230769230769;high;0.043478260869565216;0.3055555555555556;0.08695652173913043;0;0;0;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.5192307692307693;high;0.17391304347826086;0.3611111111111111;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.25;medium;0.08695652173913043;0.3333333333333333;0.13043478260869565;1;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;0;1;0;0;0;1
+0.1346153846153846;high;0.43478260869565216;0.3333333333333333;0.22826086956521738;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.29615384615384616;high;0.17391304347826086;0.5277777777777778;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0;1;0;0;0;1;0;0;0;1
+0.7115384615384616;high;0.0;0.5555555555555556;0.21739130434782608;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.6153846153846154;high;0.13043478260869565;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;1
+0.4230769230769231;medium;0.2608695652173913;0.2777777777777778;0.21739130434782608;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;1;0;0;1;0
+0.6538461538461539;low;0.5217391304347826;0.2222222222222222;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;1;0;0;1;0;1;0;0;0;1
+0.46153846153846156;medium;0.0;0.5;0.21739130434782608;0;0;0;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.7115384615384616;low;0.43478260869565216;0.3333333333333333;0.21739130434782608;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.1346153846153846;low;0.43478260869565216;0.3333333333333333;0.17391304347826086;0;0;0;0;0;1;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;1;0;0;1;0
+0.6153846153846154;low;0.21739130434782608;0.1388888888888889;0.30434782608695654;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.8076923076923077;low;0.21739130434782608;0.25;0.17391304347826086;0;1;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;1;0;1;0;0;0;1
+0.49450549450549464;high;0.6086956521739131;0.3888888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.7115384615384616;high;0.08695652173913043;0.3055555555555556;0.2608695652173913;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.7115384615384616;low;0.21739130434782608;0.4166666666666667;0.2608695652173913;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.4807692307692308;medium;0.13043478260869565;0.3333333333333333;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;1;1;0;0;0;0;1
+0.5903846153846154;low;0.5652173913043478;0.3333333333333333;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.4230769230769231;low;0.17391304347826086;0.2777777777777778;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.5769230769230769;medium;0.34782608695652173;0.2777777777777778;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1
+0.8076923076923077;high;0.13043478260869565;0.3055555555555556;0.13043478260869565;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.5192307692307693;high;0.043478260869565216;0.1388888888888889;0.13043478260869565;0;0;0;0;0;1;0;0;0;0;1;1;0;0;1;0;0;0;0;1;1;0;0;0;0;1
+0.6153846153846154;low;0.08695652173913043;0.3055555555555556;0.6086956521739131;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;1;0;0;0;1;0;0;0;1
+0.5192307692307693;low;0.13043478260869565;0.2222222222222222;0.2608695652173913;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.5769230769230769;medium;0.08695652173913043;0.1388888888888889;0.20263975155279498;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;1;0;0;0;1
+0.46153846153846156;low;0.30434782608695654;0.25;0.08695652173913043;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;0;0;0;1
+0.8461538461538461;medium;0.43478260869565216;0.16666666666666666;0.2608695652173913;0;0;0;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;0;1;0;1;0;0;1;0
+0.7115384615384616;high;0.2608695652173913;0.3333333333333333;0.18478260869565216;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1;1;0;0;0;0;1
+0.5192307692307693;high;0.21739130434782608;0.3333333333333333;0.17391304347826086;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.9038461538461539;medium;0.0;0.5;0.20263975155279498;1;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;1;0;1;0;0;0;1
+0.7307692307692307;medium;0.21739130434782608;0.3611111111111111;0.22826086956521738;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;0;1;0;0;1;0
+0.4230769230769231;medium;0.21739130434782608;0.3888888888888889;0.13043478260869565;0;0;0;0;1;0;0;0;0;0;1;1;0;0;1;0;0;0;0;1;0;1;0;0;1;0
+0.7115384615384616;high;0.21739130434782608;0.25;0.13043478260869565;0;0;0;0;1;0;0;0;0;0;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1
+0.23076923076923078;medium;0.043478260869565216;0.3888888888888889;0.17391304347826086;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;1;0;0;1;0;1;0;1;0;0
